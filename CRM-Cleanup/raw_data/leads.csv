@@ -1,0 +1,1001 @@
+Lead_ID,Name,Email,Phone,Company,Source,Status,Created_Date,Last_Activity,Deal_Value
+1,Arjun Iyer,arjun.iyer@example.com,123-ABC,DataFlow Systems,Website,Lost,04-05-2025,11-12-2025,362180
+2,Anjali Joshi,anjali.joshi@example.com,9532405806,NextGen IT,Instagram,Contacted,08-04-2025,16-05-2026,181936
+3,Sneha Nair,sneha.nair@example.com,9340401763,NextGen IT,Referral,Won,31-03-2026,12-04-2026,447829
+4,Arjun Gupta,arjun.gupta@example.com,8057215103,DigitalEdges,Cold Call,Inactive,27-08-2025,19-05-2026,128882
+5,VIKRAM VERMA,vikram.verma@example.com,9666982374,innovateindia,Referral,Contacted,13-03-2025,03-08-2025,73650
+6,Amit Verma,amit.verma@example.com,7154290868,TechSolutions,Cold Call,Contacted,16-09-2025,25-04-2026,472364
+7,Vikram Gupta,vikram.gupta@example.com,9154178795,  DigitalEdges  ,Referral,Inactive,25-01-2025,05-09-2025,405819
+8,Anjali Joshi,anjali.joshi@example.com,9408457184,CloudScale,Cold Call,Inactive,24-01-2025,01-01-2026,89792
+9,Sneha Nair,sneha.nair@example.com,7732112330,DataFlow Systems,Cold Call,Contacted,29-03-2026,25-04-2026,8059
+10,DUPLICATE LEAD,amit.gupta@example.com,9389356200,digitaledges,Google Ads,Contacted,29-03-2025,23-10-2025,372202
+11,Rahul Das,rahul.das@example.com,9985285151,NextGen IT,Website,Inactive,11-02-2025,14-04-2026,471058
+12,Anjali Gupta,anjali.gupta@example.com,7562004094,InnovateIndia,LinkedIn,Inactive,29-03-2025,27-04-2025,309768
+13,Divya Joshi,divya.joshi@example.com,9059919132,InnovateIndia,Website,Inactive,01-01-2026,17-02-2026,61766
+14,Sneha Sharma,sneha.sharma@example.com,8768081691,  TechSolutions  ,Facebook,Lost,23-01-2026,02-03-2026,216930
+15,VIKRAM PATEL,vikram.patel@example.com,9632539153,softcorp,Instagram,Qualified,17-02-2026,13-03-2026,327648
+16,Rohan Patel,rohan.patel@example.com,8027176746,SoftCorp,Google Ads,Inactive,22-02-2025,02-06-2026,479146
+17,Megha Joshi,megha.joshi@example.com,9414313530,DigitalEdges,Referral,Lost,12-05-2025,28-07-2025,396546
+18,Sneha Verma,sneha.verma@example.com,8593738617,DigitalEdges,Referral,Contacted,14-01-2025,25-06-2025,377123
+19,Rahul Verma,rahul.verma@example.com,9218869038,InnovateIndia,Google Ads,Won,10-01-2025,02-03-2025,24161
+20,DUPLICATE LEAD,,9237677806,dataflow systems,Website,Qualified,11-11-2025,15-03-2026,299344
+21,Anjali Iyer,anjali.iyer@example.com,123-ABC,  SoftCorp  ,Website,Contacted,12-11-2025,06-04-2026,292576
+22,Amit Das,amit.das@example.com,8842166608,TechSolutions,Cold Call,Contacted,08-03-2026,13-03-2026,135414
+23,Arjun Gupta,arjun.gupta@example.com,9906467090,NextGen IT,Website,Contacted,28-01-2026,30-01-2026,386670
+24,Megha Nair,megha.nair@example.com,9652050543,DigitalEdges,Website,New,12-11-2025,10-03-2026,101955
+25,SNEHA GUPTA,sneha.gupta@example.com,7566725528,nextgen it,Instagram,New,21-07-2025,05-12-2025,497866
+26,Divya Gupta,divya.gupta@example.com,9958529870,CloudScale,Website,New,19-03-2025,18-12-2025,472665
+27,Megha Singh,megha.singh@example.com,7322586797,DigitalEdges,Referral,Contacted,09-10-2025,03-12-2025,99267
+28,Megha Singh,megha.singh@example.com,7980853825,  InnovateIndia  ,Referral,Inactive,12-06-2025,23-06-2026,20425
+29,Vikram Joshi,vikram.joshi@example.com,8589970567,WebMasters,Instagram,Contacted,14-12-2025,03-03-2026,17530
+30,DUPLICATE LEAD,arjun.gupta@example.com,9608313012,digitaledges,Facebook,Lost,11-01-2025,29-04-2025,165532
+31,Vikram Reddy,vikram.reddy@example.com,9363482234,WebMasters,Cold Call,Qualified,04-04-2026,05-04-2026,250334
+32,Amit Das,amit.das@example.com,7504149119,TechSolutions,Google Ads,Lost,13-03-2026,28-05-2026,200251
+33,,arjun.iyer@example.com,8781843570,WebMasters,LinkedIn,New,12-09-2025,20-09-2025,316938
+34,Amit Joshi,amit.joshi@example.com,8382655306,SoftCorp,Cold Call,Contacted,03-07-2025,23-04-2026,457953
+35,ANJALI PATEL,anjali.patel@example.com,7544550804,  nextgen it  ,Website,Inactive,15-09-2025,08-12-2025,429986
+36,Vikram Iyer,vikram.iyer@example.com,7904196385,InnovateIndia,Cold Call,Contacted,26-12-2025,13-03-2026,128291
+37,Arjun Verma,arjun.verma@example.com,7532620031,SoftCorp,Facebook,Qualified,10-06-2025,14-02-2026,190046
+38,Rahul Verma,rahul.verma@example.com,8404905549,SoftCorp,Google Ads,New,21-06-2026,22-06-2026,107186
+39,Priya Iyer,priya.iyer@example.com,9800409446,WebMasters,Referral,Contacted,12-06-2025,12-12-2025,459498
+40,DUPLICATE LEAD,,8421938853,nextgen it,Google Ads,New,19-01-2025,27-11-2025,334826
+41,Arjun Verma,arjun.verma@example.com,123-ABC,DigitalEdges,Facebook,Lost,30-04-2025,30-11-2025,102651
+42,Sneha Singh,sneha.singh@example.com,8395569148,  DigitalEdges  ,Google Ads,Contacted,07-07-2025,04-11-2025,184032
+43,Amit Nair,amit.nair@example.com,9661773326,NextGen IT,Website,Inactive,21-06-2025,26-10-2025,88712
+44,Divya Joshi,divya.joshi@example.com,9561012342,SoftCorp,Instagram,Inactive,22-06-2025,29-08-2025,257496
+45,ANJALI SHARMA,anjali.sharma@example.com,9341436829,dataflow systems,Cold Call,New,27-07-2025,17-03-2026,301722
+46,Priya Iyer,priya.iyer@example.com,9755989973,NextGen IT,Website,Lost,28-03-2026,25-04-2026,423440
+47,Vikram Reddy,vikram.reddy@example.com,9379824681,WebMasters,Referral,Qualified,22-07-2025,29-09-2025,407481
+48,Divya Joshi,divya.joshi@example.com,9836098226,DataFlow Systems,Instagram,Won,08-04-2025,01-10-2025,12849
+49,Amit Das,amit.das@example.com,8886293383,  DataFlow Systems  ,Cold Call,New,18-02-2026,11-05-2026,176971
+50,DUPLICATE LEAD,anjali.sharma@example.com,9773974307,techsolutions,Google Ads,Inactive,01-01-2024,21-06-2026,329839
+51,Rohan Das,rohan.das@example.com,7518646364,CloudScale,Cold Call,Inactive,15-10-2025,02-12-2025,427583
+52,Divya Sharma,divya.sharma@example.com,7894040457,InnovateIndia,Facebook,New,28-03-2026,17-04-2026,159804
+53,Arjun Patel,arjun.patel@example.com,8494958570,DataFlow Systems,Instagram,Inactive,15-03-2026,13-04-2026,234123
+54,Amit Nair,amit.nair@example.com,9120765766,CloudScale,LinkedIn,Qualified,04-08-2025,12-11-2025,371061
+55,ARJUN DAS,arjun.das@example.com,9107718050,nextgen it,Google Ads,Qualified,15-02-2026,07-05-2026,451410
+56,Megha Nair,megha.nair@example.com,9091922361,  DigitalEdges  ,Facebook,New,09-09-2025,13-12-2025,114019
+57,Divya Iyer,divya.iyer@example.com,9776649151,WebMasters,Cold Call,Lost,17-12-2025,04-02-2026,187213
+58,Arjun Das,arjun.das@example.com,8388375426,DigitalEdges,Cold Call,Inactive,22-02-2025,02-03-2025,348500
+59,Amit Patel,amit.patel@example.com,8636991335,SoftCorp,Referral,Contacted,04-08-2025,12-10-2025,48709
+60,DUPLICATE LEAD,,8065527678,digitaledges,Referral,Lost,23-03-2026,21-04-2026,187103
+61,Rahul Joshi,rahul.joshi@example.com,123-ABC,TechSolutions,Facebook,Won,06-02-2026,25-03-2026,382272
+62,Arjun Nair,arjun.nair@example.com,8292926106,CloudScale,Website,Qualified,08-08-2025,21-05-2026,144274
+63,Amit Reddy,amit.reddy@example.com,7978968019,  SoftCorp  ,Website,Qualified,18-02-2026,07-03-2026,47059
+64,Amit Nair,amit.nair@example.com,8807611319,NextGen IT,Instagram,Contacted,13-05-2025,03-06-2025,57581
+65,ARJUN VERMA,arjun.verma@example.com,8382849833,innovateindia,Instagram,Won,15-03-2026,08-05-2026,135949
+66,,amit.sharma@example.com,8157017359,CloudScale,LinkedIn,New,12-01-2026,20-06-2026,5252
+67,Amit Iyer,amit.iyer@example.com,7493766218,DataFlow Systems,Referral,Won,05-03-2026,23-05-2026,238584
+68,Anjali Gupta,anjali.gupta@example.com,8946977622,WebMasters,LinkedIn,Contacted,05-09-2025,07-04-2026,386759
+69,Rahul Verma,rahul.verma@example.com,7828074351,CloudScale,Google Ads,Lost,24-07-2025,13-09-2025,243093
+70,DUPLICATE LEAD,arjun.joshi@example.com,7848163497,  dataflow systems  ,Referral,Qualified,24-03-2025,19-09-2025,453616
+71,Sneha Reddy,sneha.reddy@example.com,8520536282,InnovateIndia,Website,Qualified,13-03-2026,17-06-2026,340835
+72,Priya Gupta,priya.gupta@example.com,9070453384,CloudScale,Google Ads,Inactive,17-03-2026,05-06-2026,211415
+73,Divya Singh,divya.singh@example.com,8469487033,NextGen IT,Referral,Contacted,20-03-2025,17-04-2025,356412
+74,Divya Verma,divya.verma@example.com,7295361582,WebMasters,Google Ads,Qualified,27-09-2025,08-12-2025,118092
+75,ANJALI JOSHI,anjali.joshi@example.com,7500010959,softcorp,LinkedIn,Won,11-06-2025,20-03-2026,370114
+76,Amit Joshi,amit.joshi@example.com,9525112670,DigitalEdges,Website,Qualified,27-09-2025,04-03-2026,400237
+77,Arjun Iyer,arjun.iyer@example.com,7442856375,  InnovateIndia  ,Instagram,Won,23-02-2026,17-04-2026,148448
+78,Rahul Sharma,rahul.sharma@example.com,9890438517,SoftCorp,Instagram,Qualified,19-05-2025,02-11-2025,161292
+79,Rohan Singh,rohan.singh@example.com,9213526575,SoftCorp,Google Ads,Lost,16-12-2025,07-05-2026,254085
+80,DUPLICATE LEAD,,8574446922,softcorp,Facebook,New,26-03-2026,29-05-2026,392449
+81,Vikram Verma,vikram.verma@example.com,123-ABC,CloudScale,Referral,Inactive,07-05-2025,27-09-2025,389125
+82,Vikram Iyer,vikram.iyer@example.com,8722497917,SoftCorp,Referral,Won,29-11-2025,26-02-2026,422715
+83,Amit Iyer,amit.iyer@example.com,7897261927,CloudScale,Cold Call,Qualified,20-03-2025,18-05-2026,244946
+84,Megha Joshi,megha.joshi@example.com,8720826216,  DataFlow Systems  ,Referral,Contacted,10-06-2026,16-06-2026,126158
+85,ARJUN VERMA,arjun.verma@example.com,9984813534,dataflow systems,Website,Inactive,11-06-2025,12-06-2025,75053
+86,Rohan Gupta,rohan.gupta@example.com,9701085273,TechSolutions,LinkedIn,Contacted,13-10-2025,08-02-2026,471897
+87,Rahul Singh,rahul.singh@example.com,8031417757,SoftCorp,Cold Call,New,15-10-2025,16-03-2026,178322
+88,Amit Iyer,amit.iyer@example.com,9710074849,TechSolutions,Facebook,New,28-06-2026,29-06-2026,340155
+89,Megha Reddy,megha.reddy@example.com,9303184981,WebMasters,LinkedIn,Qualified,01-10-2025,04-12-2025,281432
+90,DUPLICATE LEAD,divya.joshi@example.com,8308878277,digitaledges,Website,Won,15-01-2025,26-02-2025,319266
+91,Priya Patel,priya.patel@example.com,7739536310,  SoftCorp  ,Instagram,Won,25-09-2025,24-12-2025,456283
+92,Divya Joshi,divya.joshi@example.com,7781005744,SoftCorp,Cold Call,New,29-10-2025,17-02-2026,205814
+93,Divya Joshi,divya.joshi@example.com,9681760899,DataFlow Systems,Instagram,Inactive,03-07-2025,14-03-2026,54466
+94,Sneha Gupta,sneha.gupta@example.com,7986615287,DataFlow Systems,Google Ads,Inactive,10-06-2025,27-09-2025,308669
+95,ROHAN NAIR,rohan.nair@example.com,9742421935,nextgen it,Cold Call,Qualified,01-02-2026,06-05-2026,227567
+96,Arjun Gupta,arjun.gupta@example.com,9526410620,WebMasters,LinkedIn,Qualified,26-08-2025,03-04-2026,458650
+97,Vikram Gupta,vikram.gupta@example.com,9243002125,WebMasters,Referral,Qualified,16-03-2025,05-10-2025,218885
+98,Megha Iyer,megha.iyer@example.com,7434169723,  WebMasters  ,Website,Contacted,13-01-2026,24-02-2026,470374
+99,,anjali.sharma@example.com,7053507432,TechSolutions,LinkedIn,Won,16-05-2025,15-04-2026,102372
+100,DUPLICATE LEAD,,7036081051,innovateindia,Website,Inactive,01-01-2024,04-06-2026,84942
+101,Sneha Gupta,sneha.gupta@example.com,123-ABC,DataFlow Systems,Instagram,Won,16-01-2025,16-04-2026,9299
+102,Megha Gupta,megha.gupta@example.com,9654502727,TechSolutions,Website,New,20-02-2025,19-06-2025,209942
+103,Megha Sharma,megha.sharma@example.com,7359327011,InnovateIndia,Website,Contacted,01-02-2026,03-06-2026,344183
+104,Amit Singh,amit.singh@example.com,7068246843,DigitalEdges,Google Ads,Inactive,27-05-2026,20-06-2026,305217
+105,SNEHA SINGH,sneha.singh@example.com,8295574418,  techsolutions  ,Website,Contacted,16-10-2025,07-12-2025,109371
+106,Amit Das,amit.das@example.com,9577822513,InnovateIndia,Referral,Won,01-03-2026,17-03-2026,257381
+107,Vikram Sharma,vikram.sharma@example.com,9663581568,NextGen IT,Cold Call,Won,28-07-2025,13-11-2025,417422
+108,Priya Reddy,priya.reddy@example.com,7494558924,DataFlow Systems,Referral,Inactive,05-11-2025,26-01-2026,380137
+109,Amit Das,amit.das@example.com,9885696693,DigitalEdges,LinkedIn,Lost,03-03-2025,28-11-2025,29939
+110,DUPLICATE LEAD,vikram.patel@example.com,8521997456,cloudscale,Website,Inactive,20-10-2025,11-03-2026,412152
+111,Rohan Joshi,rohan.joshi@example.com,8964046121,DigitalEdges,Cold Call,Inactive,02-12-2025,07-06-2026,5836
+112,Rohan Das,rohan.das@example.com,9917898491,  CloudScale  ,Cold Call,Lost,07-01-2026,04-04-2026,371650
+113,Amit Patel,amit.patel@example.com,8852215047,DataFlow Systems,Google Ads,Won,18-12-2025,21-12-2025,369104
+114,Divya Gupta,divya.gupta@example.com,8134370867,TechSolutions,Cold Call,Contacted,24-04-2025,13-08-2025,322629
+115,PRIYA GUPTA,priya.gupta@example.com,8623153037,cloudscale,Website,Inactive,11-04-2026,17-06-2026,321571
+116,Vikram Reddy,vikram.reddy@example.com,7455231880,WebMasters,Cold Call,Qualified,10-01-2025,17-04-2026,305839
+117,Divya Sharma,divya.sharma@example.com,8530317794,SoftCorp,Instagram,Won,13-04-2025,05-12-2025,424314
+118,Priya Nair,priya.nair@example.com,9745961191,NextGen IT,LinkedIn,Lost,09-11-2025,28-06-2026,206835
+119,Anjali Joshi,anjali.joshi@example.com,7919219011,  CloudScale  ,Facebook,Lost,18-06-2026,22-06-2026,314993
+120,DUPLICATE LEAD,,7524127724,techsolutions,Website,New,20-11-2025,12-04-2026,305668
+121,Priya Das,priya.das@example.com,123-ABC,SoftCorp,LinkedIn,New,28-11-2025,11-02-2026,478939
+122,Rahul Iyer,rahul.iyer@example.com,7067644675,WebMasters,Website,Lost,20-05-2025,04-09-2025,287051
+123,Anjali Singh,anjali.singh@example.com,9031321120,CloudScale,Referral,Qualified,12-03-2025,01-05-2026,476147
+124,Rahul Singh,rahul.singh@example.com,7797138916,TechSolutions,Facebook,Lost,22-01-2026,27-03-2026,122263
+125,ROHAN SHARMA,rohan.sharma@example.com,8579240505,cloudscale,Cold Call,Contacted,13-05-2026,02-06-2026,119210
+126,Megha Nair,megha.nair@example.com,7353647295,  CloudScale  ,Google Ads,Contacted,19-09-2025,10-12-2025,250721
+127,Amit Reddy,amit.reddy@example.com,9420543732,NextGen IT,Facebook,Qualified,20-06-2025,11-08-2025,198450
+128,Anjali Das,anjali.das@example.com,7906790478,SoftCorp,Facebook,Contacted,14-02-2025,17-08-2025,433010
+129,Rohan Singh,rohan.singh@example.com,7950303810,CloudScale,Facebook,Lost,05-04-2026,24-05-2026,447332
+130,DUPLICATE LEAD,megha.gupta@example.com,9591761328,nextgen it,Google Ads,New,21-07-2025,20-01-2026,429479
+131,Divya Singh,divya.singh@example.com,7651927704,InnovateIndia,Instagram,Lost,04-10-2025,31-12-2025,246646
+132,,vikram.verma@example.com,7178385582,NextGen IT,LinkedIn,Inactive,09-04-2026,11-06-2026,92547
+133,Divya Patel,divya.patel@example.com,9483992076,  TechSolutions  ,Referral,New,23-06-2025,13-07-2025,285131
+134,Priya Gupta,priya.gupta@example.com,7868273207,InnovateIndia,Google Ads,Inactive,24-11-2025,18-05-2026,419984
+135,SNEHA REDDY,sneha.reddy@example.com,8262209923,webmasters,Referral,Qualified,06-10-2025,24-10-2025,461112
+136,Rohan Sharma,rohan.sharma@example.com,9030093247,InnovateIndia,Facebook,Won,19-12-2025,26-12-2025,356342
+137,Anjali Sharma,anjali.sharma@example.com,9603671256,CloudScale,Referral,Lost,09-03-2026,25-06-2026,487709
+138,Vikram Iyer,vikram.iyer@example.com,7118465108,DataFlow Systems,LinkedIn,Qualified,27-02-2025,26-03-2026,361468
+139,Anjali Nair,anjali.nair@example.com,9233790900,SoftCorp,LinkedIn,Inactive,10-04-2026,22-06-2026,70729
+140,DUPLICATE LEAD,,9024293245,  innovateindia  ,Google Ads,Won,12-03-2026,19-03-2026,82188
+141,Sneha Reddy,sneha.reddy@example.com,123-ABC,TechSolutions,LinkedIn,Contacted,28-05-2026,26-06-2026,368345
+142,Rahul Joshi,rahul.joshi@example.com,8523365058,DataFlow Systems,LinkedIn,Qualified,31-03-2026,20-04-2026,233828
+143,Anjali Nair,anjali.nair@example.com,7613462567,DigitalEdges,Referral,Contacted,21-04-2025,16-05-2025,128811
+144,Rahul Verma,rahul.verma@example.com,9797674955,CloudScale,Facebook,Lost,26-04-2026,04-05-2026,132619
+145,ARJUN SINGH,arjun.singh@example.com,9549387935,techsolutions,Google Ads,Contacted,25-04-2026,07-06-2026,249713
+146,Anjali Verma,anjali.verma@example.com,9326171646,TechSolutions,Referral,New,23-08-2025,24-06-2026,39909
+147,Divya Joshi,divya.joshi@example.com,7531435673,  DataFlow Systems  ,Google Ads,Inactive,27-10-2025,01-01-2026,214971
+148,Anjali Verma,anjali.verma@example.com,8682181599,WebMasters,LinkedIn,Qualified,16-09-2025,18-01-2026,205933
+149,Megha Joshi,megha.joshi@example.com,7364086540,NextGen IT,Website,Won,09-09-2025,28-12-2025,37102
+150,DUPLICATE LEAD,anjali.reddy@example.com,7175977392,techsolutions,Cold Call,Inactive,01-01-2024,25-06-2026,137509
+151,Amit Joshi,amit.joshi@example.com,7137445220,DigitalEdges,Website,Contacted,30-11-2025,30-11-2025,164437
+152,Divya Reddy,divya.reddy@example.com,8937952419,CloudScale,Cold Call,Inactive,10-12-2025,02-06-2026,260375
+153,Anjali Sharma,anjali.sharma@example.com,9469803869,NextGen IT,Website,Qualified,26-05-2025,15-06-2026,313416
+154,Amit Patel,amit.patel@example.com,8615894176,  DataFlow Systems  ,Google Ads,Won,13-12-2025,31-12-2025,182657
+155,ROHAN NAIR,rohan.nair@example.com,8047835035,cloudscale,Cold Call,Inactive,25-10-2025,06-02-2026,415170
+156,Rahul Iyer,rahul.iyer@example.com,9073757427,InnovateIndia,Facebook,Inactive,01-05-2026,29-05-2026,388192
+157,Megha Joshi,megha.joshi@example.com,7708962682,TechSolutions,LinkedIn,Inactive,10-03-2025,09-10-2025,88122
+158,Anjali Das,anjali.das@example.com,8991560680,DataFlow Systems,Instagram,Qualified,07-11-2025,21-06-2026,495910
+159,Rohan Singh,rohan.singh@example.com,7407618848,WebMasters,Website,Inactive,11-11-2025,27-01-2026,254830
+160,DUPLICATE LEAD,,7454402858,webmasters,Instagram,Qualified,04-04-2026,19-05-2026,77319
+161,Sneha Patel,sneha.patel@example.com,123-ABC,  DataFlow Systems  ,Referral,Won,02-08-2025,03-12-2025,215122
+162,Divya Singh,divya.singh@example.com,8867622696,DigitalEdges,Website,Inactive,27-04-2026,02-06-2026,307851
+163,Rohan Gupta,rohan.gupta@example.com,7862841223,InnovateIndia,LinkedIn,Won,22-03-2025,29-11-2025,389784
+164,Rohan Sharma,rohan.sharma@example.com,7444752134,DigitalEdges,Facebook,Won,13-10-2025,15-11-2025,65284
+165,,divya.verma@example.com,9625411268,cloudscale,Facebook,Qualified,20-07-2025,31-01-2026,166308
+166,Anjali Sharma,anjali.sharma@example.com,7083922435,DigitalEdges,Instagram,Lost,24-11-2025,21-03-2026,227820
+167,Rahul Patel,rahul.patel@example.com,8934213222,NextGen IT,Referral,Qualified,31-01-2025,22-11-2025,389631
+168,Megha Sharma,megha.sharma@example.com,7876466476,  CloudScale  ,Cold Call,Lost,25-06-2026,28-06-2026,346061
+169,Arjun Patel,arjun.patel@example.com,9727908986,InnovateIndia,Google Ads,Inactive,20-02-2026,18-04-2026,114608
+170,DUPLICATE LEAD,anjali.iyer@example.com,9618395721,innovateindia,Facebook,Lost,13-09-2025,29-01-2026,458488
+171,Priya Nair,priya.nair@example.com,8971385286,InnovateIndia,Referral,Lost,07-09-2025,04-05-2026,489976
+172,Rahul Patel,rahul.patel@example.com,9886948311,SoftCorp,Cold Call,New,06-04-2025,17-02-2026,449712
+173,Divya Sharma,divya.sharma@example.com,8818539749,InnovateIndia,Cold Call,Contacted,05-11-2025,27-01-2026,198713
+174,Priya Iyer,priya.iyer@example.com,8267110497,DataFlow Systems,Website,New,14-09-2025,21-06-2026,315746
+175,ARJUN REDDY,arjun.reddy@example.com,9567319683,  cloudscale  ,Referral,Won,29-10-2025,06-12-2025,249504
+176,Vikram Verma,vikram.verma@example.com,9715240345,InnovateIndia,LinkedIn,Lost,25-07-2025,16-11-2025,257553
+177,Priya Gupta,priya.gupta@example.com,8949351937,InnovateIndia,LinkedIn,Lost,17-05-2026,06-06-2026,262633
+178,Rohan Sharma,rohan.sharma@example.com,9629932384,CloudScale,Instagram,Contacted,13-02-2025,27-02-2025,76222
+179,Megha Patel,megha.patel@example.com,8606505341,SoftCorp,Google Ads,Qualified,25-04-2025,29-12-2025,242858
+180,DUPLICATE LEAD,,9867821491,innovateindia,Website,Won,30-05-2025,07-12-2025,238617
+181,Arjun Singh,arjun.singh@example.com,123-ABC,SoftCorp,LinkedIn,Qualified,25-01-2025,25-09-2025,251157
+182,Sneha Patel,sneha.patel@example.com,8188112654,  DataFlow Systems  ,Google Ads,Contacted,23-12-2025,20-01-2026,197420
+183,Sneha Singh,sneha.singh@example.com,8296370886,InnovateIndia,Website,Contacted,26-01-2026,20-03-2026,150615
+184,Rahul Reddy,rahul.reddy@example.com,7006589958,CloudScale,Referral,Lost,24-01-2026,06-02-2026,104765
+185,VIKRAM REDDY,vikram.reddy@example.com,8155057262,innovateindia,Google Ads,New,21-05-2026,23-05-2026,409737
+186,Divya Patel,divya.patel@example.com,8524425551,DataFlow Systems,Referral,Qualified,10-10-2025,20-01-2026,171116
+187,Vikram Nair,vikram.nair@example.com,8094722688,NextGen IT,LinkedIn,Lost,25-05-2026,13-06-2026,327325
+188,Rohan Nair,rohan.nair@example.com,7096080635,DigitalEdges,Google Ads,New,20-05-2026,24-05-2026,411237
+189,Vikram Das,vikram.das@example.com,7778258967,  TechSolutions  ,Referral,New,04-08-2025,21-11-2025,156446
+190,DUPLICATE LEAD,vikram.verma@example.com,9180100614,dataflow systems,Instagram,Contacted,10-08-2025,19-01-2026,169370
+191,Rahul Sharma,rahul.sharma@example.com,8108700125,TechSolutions,LinkedIn,Won,20-06-2025,09-06-2026,431800
+192,Rohan Sharma,rohan.sharma@example.com,8027983456,DigitalEdges,Facebook,Contacted,17-08-2025,05-01-2026,309083
+193,Priya Singh,priya.singh@example.com,9710004583,DigitalEdges,Cold Call,Won,10-10-2025,26-11-2025,468295
+194,Priya Nair,priya.nair@example.com,8978020832,WebMasters,Referral,Lost,04-07-2025,29-09-2025,273233
+195,DIVYA NAIR,divya.nair@example.com,8835702514,digitaledges,Facebook,Inactive,30-11-2025,10-02-2026,419642
+196,Anjali Joshi,anjali.joshi@example.com,7400546791,  SoftCorp  ,Website,Lost,27-02-2025,25-05-2025,402435
+197,Arjun Joshi,arjun.joshi@example.com,8076933886,DigitalEdges,Instagram,Qualified,25-04-2025,17-05-2026,53329
+198,,priya.joshi@example.com,9573306931,DataFlow Systems,Instagram,Qualified,15-01-2026,02-04-2026,157405
+199,Sneha Verma,sneha.verma@example.com,8117299535,DigitalEdges,LinkedIn,Contacted,25-03-2025,19-04-2026,289661
+200,DUPLICATE LEAD,,7037453726,cloudscale,Google Ads,Inactive,01-01-2024,17-06-2026,111641
+201,Divya Singh,divya.singh@example.com,123-ABC,InnovateIndia,Google Ads,Qualified,01-05-2026,08-06-2026,291933
+202,Anjali Sharma,anjali.sharma@example.com,8483386190,DataFlow Systems,Instagram,Won,25-09-2025,17-12-2025,107983
+203,Rahul Reddy,rahul.reddy@example.com,7912244319,  SoftCorp  ,Website,Won,06-04-2026,10-05-2026,262898
+204,Priya Patel,priya.patel@example.com,9437760133,WebMasters,Facebook,Lost,19-02-2026,08-03-2026,59573
+205,SNEHA SINGH,sneha.singh@example.com,8425762139,nextgen it,Cold Call,Lost,26-12-2025,19-06-2026,101599
+206,Arjun Verma,arjun.verma@example.com,7702642288,CloudScale,Referral,Won,05-07-2025,11-04-2026,82233
+207,Divya Singh,divya.singh@example.com,8896751658,CloudScale,Website,Lost,07-10-2025,12-10-2025,251446
+208,Vikram Das,vikram.das@example.com,8784784402,NextGen IT,Cold Call,Won,15-07-2025,09-03-2026,332223
+209,Divya Reddy,divya.reddy@example.com,8800260297,DataFlow Systems,Google Ads,New,22-02-2026,30-03-2026,386677
+210,DUPLICATE LEAD,divya.nair@example.com,7644004881,  webmasters  ,LinkedIn,Inactive,20-03-2026,04-06-2026,33067
+211,Megha Reddy,megha.reddy@example.com,7996628507,CloudScale,Referral,Contacted,05-01-2025,27-06-2026,146967
+212,Sneha Patel,sneha.patel@example.com,9647179837,TechSolutions,Website,Lost,26-04-2025,16-05-2025,227151
+213,Amit Gupta,amit.gupta@example.com,7393813569,WebMasters,Cold Call,Inactive,21-04-2025,07-09-2025,149725
+214,Arjun Singh,arjun.singh@example.com,7260684390,CloudScale,Website,Qualified,18-12-2025,24-01-2026,36442
+215,AMIT SHARMA,amit.sharma@example.com,8534874433,nextgen it,Google Ads,New,21-03-2026,21-04-2026,406827
+216,Vikram Reddy,vikram.reddy@example.com,7659081056,SoftCorp,Referral,Contacted,03-06-2025,23-06-2025,450645
+217,Vikram Patel,vikram.patel@example.com,9293299046,  InnovateIndia  ,Google Ads,Contacted,06-02-2025,16-03-2025,284899
+218,Sneha Gupta,sneha.gupta@example.com,8143128786,TechSolutions,Referral,Won,15-04-2025,07-11-2025,259612
+219,Priya Patel,priya.patel@example.com,8426732354,TechSolutions,Google Ads,Contacted,28-05-2026,31-05-2026,358145
+220,DUPLICATE LEAD,,9382892327,dataflow systems,LinkedIn,Qualified,28-12-2025,10-04-2026,184612
+221,Amit Gupta,amit.gupta@example.com,123-ABC,CloudScale,LinkedIn,Won,17-02-2026,27-04-2026,168842
+222,Sneha Verma,sneha.verma@example.com,9246198892,SoftCorp,Referral,Lost,18-07-2025,31-08-2025,214632
+223,Anjali Patel,anjali.patel@example.com,8377906091,WebMasters,LinkedIn,Inactive,22-02-2025,16-05-2025,102704
+224,Priya Reddy,priya.reddy@example.com,8454798561,  WebMasters  ,Facebook,Qualified,04-03-2026,06-06-2026,481881
+225,PRIYA GUPTA,priya.gupta@example.com,9801567449,webmasters,LinkedIn,Qualified,09-10-2025,17-02-2026,123525
+226,Priya Sharma,priya.sharma@example.com,7989536307,SoftCorp,LinkedIn,Won,07-04-2025,19-10-2025,125689
+227,Arjun Verma,arjun.verma@example.com,7533439866,DigitalEdges,Facebook,Inactive,19-10-2025,20-10-2025,182855
+228,Amit Joshi,amit.joshi@example.com,8728917685,TechSolutions,Google Ads,Contacted,31-03-2025,21-06-2025,330520
+229,Anjali Verma,anjali.verma@example.com,8970982588,InnovateIndia,Facebook,Lost,14-11-2025,06-12-2025,451291
+230,DUPLICATE LEAD,priya.verma@example.com,9438701477,nextgen it,Referral,Inactive,10-12-2025,24-04-2026,175718
+231,,rahul.joshi@example.com,9613134495,  DigitalEdges  ,Referral,Qualified,30-08-2025,20-04-2026,200261
+232,Priya Singh,priya.singh@example.com,7863560007,DataFlow Systems,Facebook,Contacted,22-04-2026,10-06-2026,164591
+233,Megha Joshi,megha.joshi@example.com,7114928179,TechSolutions,Google Ads,Won,30-03-2025,03-02-2026,440655
+234,Arjun Iyer,arjun.iyer@example.com,7531947816,SoftCorp,Google Ads,Qualified,10-02-2026,13-03-2026,336439
+235,SNEHA PATEL,sneha.patel@example.com,7183426900,innovateindia,Facebook,Contacted,09-03-2025,06-04-2026,405557
+236,Anjali Iyer,anjali.iyer@example.com,8420851242,WebMasters,Google Ads,New,03-11-2025,20-11-2025,103297
+237,Amit Patel,amit.patel@example.com,9651231100,InnovateIndia,Google Ads,Contacted,08-03-2025,06-06-2026,257662
+238,Amit Verma,amit.verma@example.com,9386524201,  DataFlow Systems  ,Referral,Lost,14-05-2025,09-10-2025,470416
+239,Rohan Das,rohan.das@example.com,9640586571,NextGen IT,Website,Qualified,30-03-2025,23-09-2025,342410
+240,DUPLICATE LEAD,,7649503112,innovateindia,Website,Qualified,19-05-2026,21-05-2026,63166
+241,Megha Joshi,megha.joshi@example.com,123-ABC,NextGen IT,LinkedIn,New,15-07-2025,04-11-2025,489841
+242,Sneha Nair,sneha.nair@example.com,8421103761,DigitalEdges,LinkedIn,New,25-08-2025,01-01-2026,178927
+243,Rohan Verma,rohan.verma@example.com,7772971116,DataFlow Systems,Google Ads,Contacted,12-05-2025,29-05-2025,223145
+244,Rahul Sharma,rahul.sharma@example.com,7312515784,DataFlow Systems,Website,Lost,07-10-2025,24-05-2026,271223
+245,SNEHA REDDY,sneha.reddy@example.com,9226267638,  nextgen it  ,Cold Call,Qualified,25-03-2026,18-06-2026,238145
+246,Vikram Sharma,vikram.sharma@example.com,8231486541,WebMasters,Google Ads,Lost,28-10-2025,14-01-2026,494887
+247,Divya Gupta,divya.gupta@example.com,9121230408,DigitalEdges,Referral,Qualified,11-04-2026,28-04-2026,322225
+248,Arjun Iyer,arjun.iyer@example.com,9548056579,InnovateIndia,Cold Call,Lost,26-12-2025,02-01-2026,6870
+249,Rohan Sharma,rohan.sharma@example.com,8481600551,NextGen IT,Referral,Won,06-01-2026,04-06-2026,37308
+250,DUPLICATE LEAD,rohan.das@example.com,7982788510,digitaledges,Cold Call,Inactive,01-01-2024,14-12-2025,348920
+251,Anjali Sharma,anjali.sharma@example.com,9049982418,SoftCorp,Cold Call,Won,01-04-2026,23-06-2026,272927
+252,Arjun Sharma,arjun.sharma@example.com,7200052968,  DigitalEdges  ,Facebook,Contacted,12-05-2025,25-06-2025,299846
+253,Vikram Patel,vikram.patel@example.com,9759337464,DataFlow Systems,Website,Qualified,07-05-2025,21-12-2025,441138
+254,Rahul Verma,rahul.verma@example.com,7176314824,TechSolutions,Google Ads,Won,27-02-2025,14-09-2025,359186
+255,SNEHA PATEL,sneha.patel@example.com,9653552608,dataflow systems,Instagram,Won,18-01-2025,22-01-2025,413607
+256,Arjun Gupta,arjun.gupta@example.com,7889635595,TechSolutions,Facebook,New,10-05-2026,28-05-2026,193008
+257,Amit Verma,amit.verma@example.com,9360962990,CloudScale,Facebook,Inactive,25-05-2026,17-06-2026,487398
+258,Sneha Iyer,sneha.iyer@example.com,8589745005,SoftCorp,Cold Call,Qualified,04-10-2025,20-01-2026,304612
+259,Divya Sharma,divya.sharma@example.com,8319776756,  TechSolutions  ,Instagram,Inactive,15-10-2025,11-03-2026,369115
+260,DUPLICATE LEAD,,9177395477,webmasters,Facebook,Contacted,16-10-2025,11-05-2026,270790
+261,Rohan Nair,rohan.nair@example.com,123-ABC,InnovateIndia,Referral,Lost,01-04-2026,02-04-2026,227281
+262,Amit Gupta,amit.gupta@example.com,8362978127,InnovateIndia,Facebook,Won,01-02-2026,04-05-2026,361542
+263,Megha Iyer,megha.iyer@example.com,8080154821,DataFlow Systems,Cold Call,Inactive,06-12-2025,18-03-2026,140922
+264,,arjun.reddy@example.com,9418182116,TechSolutions,Referral,Lost,06-08-2025,05-05-2026,375679
+265,DIVYA IYER,divya.iyer@example.com,9285381040,cloudscale,LinkedIn,Contacted,24-05-2025,31-07-2025,460037
+266,Arjun Sharma,arjun.sharma@example.com,8635509763,  NextGen IT  ,Cold Call,Inactive,02-02-2025,26-03-2026,18377
+267,Sneha Das,sneha.das@example.com,8203581517,WebMasters,Google Ads,Lost,22-01-2026,11-02-2026,87672
+268,Priya Das,priya.das@example.com,9237166948,SoftCorp,Google Ads,Contacted,28-06-2025,19-12-2025,251606
+269,Sneha Nair,sneha.nair@example.com,8555886429,TechSolutions,Referral,Lost,11-08-2025,04-12-2025,215916
+270,DUPLICATE LEAD,arjun.das@example.com,7103466652,softcorp,Instagram,New,31-01-2025,24-06-2026,229210
+271,Megha Nair,megha.nair@example.com,8079429197,WebMasters,Cold Call,Inactive,02-04-2025,25-11-2025,389235
+272,Rahul Joshi,rahul.joshi@example.com,8106895318,InnovateIndia,Facebook,Contacted,24-04-2026,22-06-2026,274471
+273,Megha Joshi,megha.joshi@example.com,8408585541,  InnovateIndia  ,LinkedIn,New,16-01-2026,16-01-2026,72549
+274,Divya Joshi,divya.joshi@example.com,7989772534,NextGen IT,LinkedIn,Lost,03-03-2025,25-10-2025,334699
+275,MEGHA DAS,megha.das@example.com,9450977152,cloudscale,Google Ads,Lost,18-08-2025,09-12-2025,480638
+276,Rohan Sharma,rohan.sharma@example.com,8341594567,NextGen IT,Google Ads,Lost,20-09-2025,25-12-2025,469259
+277,Sneha Singh,sneha.singh@example.com,8939255261,SoftCorp,Google Ads,Contacted,06-10-2025,12-02-2026,364185
+278,Rahul Sharma,rahul.sharma@example.com,7140773924,NextGen IT,Cold Call,Lost,03-04-2026,03-04-2026,157052
+279,Rohan Verma,rohan.verma@example.com,7451749675,DigitalEdges,Facebook,Inactive,03-06-2026,15-06-2026,93336
+280,DUPLICATE LEAD,,8076350766,  softcorp  ,Referral,New,16-01-2026,06-04-2026,369244
+281,Amit Patel,amit.patel@example.com,123-ABC,SoftCorp,Facebook,Contacted,07-06-2026,11-06-2026,167375
+282,Anjali Gupta,anjali.gupta@example.com,7462724177,DigitalEdges,Google Ads,Inactive,10-05-2025,17-03-2026,487693
+283,Arjun Singh,arjun.singh@example.com,9906947526,DataFlow Systems,Cold Call,Inactive,19-09-2025,25-01-2026,95572
+284,Priya Nair,priya.nair@example.com,7296075043,DigitalEdges,Referral,New,19-03-2026,28-04-2026,162109
+285,AMIT DAS,amit.das@example.com,8484737497,nextgen it,Instagram,Lost,25-12-2025,14-06-2026,117209
+286,Sneha Nair,sneha.nair@example.com,7422066567,InnovateIndia,Website,Qualified,23-03-2025,11-11-2025,99851
+287,Megha Reddy,megha.reddy@example.com,9422912615,  InnovateIndia  ,Website,New,15-04-2025,28-01-2026,93743
+288,Rohan Iyer,rohan.iyer@example.com,7821624585,WebMasters,LinkedIn,Won,30-09-2025,25-12-2025,449231
+289,Rohan Sharma,rohan.sharma@example.com,9951912202,DigitalEdges,Referral,Qualified,01-12-2025,23-02-2026,381914
+290,DUPLICATE LEAD,arjun.patel@example.com,9003316196,dataflow systems,Referral,Contacted,19-06-2026,20-06-2026,260903
+291,Vikram Nair,vikram.nair@example.com,7753305959,SoftCorp,Cold Call,Qualified,23-01-2026,27-02-2026,495305
+292,Divya Verma,divya.verma@example.com,9376009230,DataFlow Systems,LinkedIn,Inactive,06-10-2025,10-11-2025,329770
+293,Priya Verma,priya.verma@example.com,7054620277,TechSolutions,Cold Call,Qualified,29-05-2026,29-06-2026,326683
+294,Rohan Nair,rohan.nair@example.com,9610179037,  TechSolutions  ,Facebook,Won,17-02-2025,02-07-2025,261917
+295,MEGHA IYER,megha.iyer@example.com,8488850756,nextgen it,Instagram,Qualified,24-02-2025,18-09-2025,219364
+296,Arjun Verma,arjun.verma@example.com,9147037364,DigitalEdges,LinkedIn,Inactive,08-01-2025,12-08-2025,388266
+297,,divya.nair@example.com,8100777642,InnovateIndia,LinkedIn,Inactive,21-06-2025,22-12-2025,420687
+298,Vikram Reddy,vikram.reddy@example.com,7763056054,DigitalEdges,Google Ads,Contacted,12-07-2025,14-10-2025,217359
+299,Sneha Joshi,sneha.joshi@example.com,9125936031,DataFlow Systems,Facebook,Contacted,10-06-2026,21-06-2026,15107
+300,DUPLICATE LEAD,,7450103529,techsolutions,Instagram,Inactive,01-01-2024,20-03-2026,37777
+301,Rahul Sharma,rahul.sharma@example.com,123-ABC,  DataFlow Systems  ,Google Ads,New,03-10-2025,27-11-2025,331175
+302,Priya Verma,priya.verma@example.com,9586032001,WebMasters,Referral,Contacted,18-04-2025,24-09-2025,370558
+303,Amit Singh,amit.singh@example.com,8015157240,WebMasters,LinkedIn,New,21-08-2025,03-05-2026,323601
+304,Anjali Sharma,anjali.sharma@example.com,7599602736,NextGen IT,LinkedIn,Won,31-12-2025,03-04-2026,213563
+305,MEGHA SHARMA,megha.sharma@example.com,8241510319,nextgen it,Google Ads,Lost,04-02-2025,17-02-2025,198627
+306,Megha Iyer,megha.iyer@example.com,8932003414,InnovateIndia,Referral,Won,07-04-2026,29-06-2026,249478
+307,Arjun Reddy,arjun.reddy@example.com,8101261036,NextGen IT,Cold Call,New,22-04-2025,08-03-2026,363806
+308,Vikram Nair,vikram.nair@example.com,7604766976,  CloudScale  ,Facebook,Qualified,07-02-2026,10-05-2026,240624
+309,Sneha Gupta,sneha.gupta@example.com,7773035778,CloudScale,Website,Qualified,04-07-2025,31-10-2025,356605
+310,DUPLICATE LEAD,priya.singh@example.com,9582265202,digitaledges,Facebook,New,19-07-2025,28-05-2026,448304
+311,Vikram Reddy,vikram.reddy@example.com,9533249184,NextGen IT,Facebook,Lost,25-12-2025,21-02-2026,71164
+312,Divya Sharma,divya.sharma@example.com,9756308751,InnovateIndia,Instagram,New,01-04-2025,17-02-2026,132138
+313,Rohan Joshi,rohan.joshi@example.com,8335089153,WebMasters,Facebook,Inactive,05-06-2025,15-01-2026,441964
+314,Anjali Nair,anjali.nair@example.com,9147964851,WebMasters,Facebook,Won,20-02-2026,13-06-2026,268527
+315,SNEHA IYER,sneha.iyer@example.com,7580664253,  innovateindia  ,LinkedIn,Won,24-12-2025,16-06-2026,15296
+316,Megha Reddy,megha.reddy@example.com,9706856942,WebMasters,Facebook,Won,17-04-2025,05-01-2026,48170
+317,Rohan Verma,rohan.verma@example.com,8377500722,NextGen IT,Instagram,Inactive,27-01-2026,19-05-2026,171669
+318,Divya Patel,divya.patel@example.com,7228606340,DataFlow Systems,LinkedIn,New,12-08-2025,06-10-2025,353801
+319,Priya Joshi,priya.joshi@example.com,8585166023,DataFlow Systems,Facebook,Inactive,27-02-2026,25-04-2026,242377
+320,DUPLICATE LEAD,,8641297646,techsolutions,Google Ads,Lost,18-06-2025,19-08-2025,282940
+321,Anjali Patel,anjali.patel@example.com,123-ABC,SoftCorp,Google Ads,Inactive,30-05-2026,06-06-2026,162943
+322,Megha Das,megha.das@example.com,7673604367,  WebMasters  ,Referral,Inactive,05-03-2026,16-05-2026,174190
+323,Sneha Gupta,sneha.gupta@example.com,8430643654,WebMasters,Facebook,Won,18-05-2026,19-06-2026,198734
+324,Arjun Joshi,arjun.joshi@example.com,9781416362,WebMasters,Google Ads,New,26-10-2025,18-02-2026,102073
+325,ROHAN NAIR,rohan.nair@example.com,7325230592,digitaledges,Instagram,Inactive,02-11-2025,03-03-2026,75802
+326,Priya Joshi,priya.joshi@example.com,7391490865,TechSolutions,Website,Contacted,19-01-2025,18-02-2026,32955
+327,Rahul Nair,rahul.nair@example.com,7434052990,NextGen IT,Facebook,Contacted,02-03-2026,02-04-2026,474838
+328,Priya Nair,priya.nair@example.com,7847160837,WebMasters,Referral,Won,22-03-2025,22-06-2025,441656
+329,Vikram Sharma,vikram.sharma@example.com,8893964718,  WebMasters  ,Google Ads,Won,06-02-2026,25-03-2026,319341
+330,,arjun.verma@example.com,8409400467,nextgen it,Instagram,Inactive,10-03-2026,27-04-2026,349378
+331,Arjun Singh,arjun.singh@example.com,8085189642,DataFlow Systems,Referral,Won,14-05-2026,24-06-2026,182593
+332,Arjun Patel,arjun.patel@example.com,7596480526,DataFlow Systems,Cold Call,New,20-05-2025,01-08-2025,380825
+333,Megha Das,megha.das@example.com,9950063331,SoftCorp,Website,Won,20-04-2025,21-01-2026,204271
+334,Rohan Singh,rohan.singh@example.com,9392944211,CloudScale,Facebook,Won,18-05-2025,11-03-2026,88891
+335,VIKRAM PATEL,vikram.patel@example.com,7746813034,dataflow systems,Referral,New,16-05-2026,19-05-2026,464254
+336,Priya Patel,priya.patel@example.com,9651544923,  NextGen IT  ,Website,Contacted,10-08-2025,27-06-2026,65494
+337,Divya Nair,divya.nair@example.com,7708971244,DataFlow Systems,Cold Call,Lost,01-06-2026,15-06-2026,275116
+338,Priya Nair,priya.nair@example.com,9646890188,SoftCorp,LinkedIn,Won,07-01-2026,08-03-2026,230184
+339,Divya Iyer,divya.iyer@example.com,9638152766,DataFlow Systems,LinkedIn,New,12-07-2025,21-04-2026,233790
+340,DUPLICATE LEAD,,8515536853,digitaledges,Cold Call,Lost,28-04-2025,04-05-2025,438020
+341,Rohan Verma,rohan.verma@example.com,123-ABC,SoftCorp,Cold Call,Lost,04-05-2025,20-08-2025,358914
+342,Rahul Reddy,rahul.reddy@example.com,7912033646,DigitalEdges,Referral,Won,30-10-2025,15-03-2026,354293
+343,Anjali Reddy,anjali.reddy@example.com,8376587258,  CloudScale  ,Website,Inactive,21-06-2025,11-04-2026,432001
+344,Vikram Joshi,vikram.joshi@example.com,9390400853,NextGen IT,Website,New,31-01-2026,21-02-2026,235618
+345,ANJALI REDDY,anjali.reddy@example.com,9587715075,digitaledges,Cold Call,New,03-11-2025,04-11-2025,479265
+346,Vikram Das,vikram.das@example.com,8601902121,TechSolutions,Google Ads,Inactive,22-02-2025,11-05-2026,262957
+347,Priya Patel,priya.patel@example.com,9479571598,InnovateIndia,Cold Call,Lost,06-02-2026,28-04-2026,354127
+348,Amit Iyer,amit.iyer@example.com,8464676484,DataFlow Systems,Referral,Contacted,01-04-2025,04-07-2025,382797
+349,Vikram Singh,vikram.singh@example.com,9352602557,CloudScale,LinkedIn,Lost,06-03-2026,17-06-2026,346517
+350,DUPLICATE LEAD,anjali.sharma@example.com,8550056660,  digitaledges  ,Website,Inactive,01-01-2024,02-04-2026,143989
+351,Divya Singh,divya.singh@example.com,7735466118,CloudScale,Instagram,New,12-07-2025,22-07-2025,458804
+352,Megha Joshi,megha.joshi@example.com,9101074388,SoftCorp,Instagram,Qualified,21-02-2025,11-02-2026,464218
+353,Sneha Joshi,sneha.joshi@example.com,7449677719,TechSolutions,Cold Call,Inactive,05-03-2025,08-11-2025,313165
+354,Vikram Sharma,vikram.sharma@example.com,7605496521,DataFlow Systems,Website,New,27-01-2026,22-02-2026,222288
+355,DIVYA SHARMA,divya.sharma@example.com,9124908524,nextgen it,Instagram,New,08-05-2026,18-06-2026,41917
+356,Sneha Reddy,sneha.reddy@example.com,9858535169,DataFlow Systems,Cold Call,Qualified,03-05-2026,08-06-2026,476532
+357,Sneha Gupta,sneha.gupta@example.com,9871901735,  TechSolutions  ,Facebook,Contacted,26-09-2025,12-12-2025,468443
+358,Sneha Verma,sneha.verma@example.com,8475629366,SoftCorp,Referral,Lost,24-01-2026,30-01-2026,159061
+359,Vikram Patel,vikram.patel@example.com,7171529727,SoftCorp,Cold Call,Contacted,25-01-2025,16-11-2025,63836
+360,DUPLICATE LEAD,,9139811584,techsolutions,Website,Inactive,15-06-2025,25-01-2026,14031
+361,Priya Joshi,priya.joshi@example.com,123-ABC,TechSolutions,Facebook,Inactive,14-04-2025,26-09-2025,133013
+362,Megha Verma,megha.verma@example.com,7135945033,DigitalEdges,Website,New,12-01-2026,15-04-2026,331237
+363,,divya.singh@example.com,8039661545,InnovateIndia,Website,New,19-02-2026,31-03-2026,415339
+364,Divya Verma,divya.verma@example.com,8890081284,  TechSolutions  ,Google Ads,New,13-09-2025,17-11-2025,280537
+365,MEGHA VERMA,megha.verma@example.com,8182970811,webmasters,Website,Inactive,23-06-2025,11-04-2026,255720
+366,Anjali Iyer,anjali.iyer@example.com,8425314861,SoftCorp,Google Ads,New,03-05-2026,31-05-2026,275381
+367,Amit Das,amit.das@example.com,9222963652,DigitalEdges,Cold Call,Contacted,03-03-2026,03-03-2026,490876
+368,Sneha Patel,sneha.patel@example.com,8526219055,InnovateIndia,LinkedIn,Qualified,28-03-2025,02-09-2025,295522
+369,Rohan Iyer,rohan.iyer@example.com,9941027002,TechSolutions,Referral,Qualified,29-04-2026,26-05-2026,136474
+370,DUPLICATE LEAD,priya.nair@example.com,9876287154,techsolutions,Instagram,Contacted,13-12-2025,28-12-2025,91285
+371,Rohan Nair,rohan.nair@example.com,9752615575,  WebMasters  ,Google Ads,Contacted,30-05-2025,04-12-2025,75956
+372,Vikram Das,vikram.das@example.com,7901493892,SoftCorp,Facebook,New,18-02-2025,11-12-2025,395877
+373,Amit Verma,amit.verma@example.com,7399007679,DigitalEdges,LinkedIn,Won,03-04-2026,28-06-2026,311977
+374,Sneha Joshi,sneha.joshi@example.com,9947774436,DataFlow Systems,Referral,Won,23-08-2025,23-01-2026,210742
+375,PRIYA SHARMA,priya.sharma@example.com,7877725258,nextgen it,Cold Call,Qualified,20-10-2025,22-12-2025,453155
+376,Divya Sharma,divya.sharma@example.com,7894833515,NextGen IT,Google Ads,Contacted,28-03-2026,15-06-2026,160969
+377,Anjali Patel,anjali.patel@example.com,9632938696,SoftCorp,Website,Lost,05-06-2025,06-05-2026,233933
+378,Amit Singh,amit.singh@example.com,7665332054,  NextGen IT  ,Google Ads,Contacted,27-04-2025,02-02-2026,252293
+379,Priya Patel,priya.patel@example.com,7123920743,InnovateIndia,Google Ads,Qualified,22-08-2025,07-05-2026,81868
+380,DUPLICATE LEAD,,8534930662,digitaledges,LinkedIn,Inactive,07-05-2026,04-06-2026,98711
+381,Sneha Gupta,sneha.gupta@example.com,123-ABC,SoftCorp,Referral,Lost,01-03-2025,10-06-2026,480438
+382,Priya Singh,priya.singh@example.com,9878931794,DataFlow Systems,Referral,Inactive,24-03-2026,30-03-2026,456703
+383,Rohan Nair,rohan.nair@example.com,9006064563,WebMasters,Cold Call,Inactive,11-04-2026,19-06-2026,338376
+384,Sneha Joshi,sneha.joshi@example.com,7231216998,TechSolutions,Website,Qualified,10-05-2025,26-05-2026,367873
+385,VIKRAM SHARMA,vikram.sharma@example.com,8363915189,  softcorp  ,Instagram,Lost,01-03-2025,22-08-2025,148514
+386,Priya Patel,priya.patel@example.com,9125163991,TechSolutions,Google Ads,New,30-05-2025,25-11-2025,250311
+387,Rohan Gupta,rohan.gupta@example.com,9444778282,DataFlow Systems,Cold Call,Contacted,25-04-2026,04-06-2026,442916
+388,Priya Sharma,priya.sharma@example.com,9456207388,WebMasters,Referral,Qualified,26-03-2026,23-04-2026,442601
+389,Amit Das,amit.das@example.com,8056955087,WebMasters,Website,Qualified,14-04-2026,17-04-2026,412232
+390,DUPLICATE LEAD,priya.joshi@example.com,7090053614,dataflow systems,Cold Call,Inactive,21-02-2026,20-06-2026,6757
+391,Amit Nair,amit.nair@example.com,8608047944,DigitalEdges,Referral,Inactive,23-02-2026,02-05-2026,415776
+392,Priya Patel,priya.patel@example.com,9921159437,  CloudScale  ,LinkedIn,Lost,22-11-2025,22-05-2026,279519
+393,Megha Joshi,megha.joshi@example.com,9411148885,TechSolutions,Website,Lost,05-03-2026,16-06-2026,52138
+394,Rahul Patel,rahul.patel@example.com,7966945691,NextGen IT,Referral,Lost,23-01-2025,04-08-2025,264753
+395,SNEHA SHARMA,sneha.sharma@example.com,7813413767,nextgen it,Cold Call,Inactive,16-06-2026,24-06-2026,114353
+396,,divya.iyer@example.com,8498950179,NextGen IT,Instagram,Contacted,29-10-2025,11-03-2026,103660
+397,Priya Verma,priya.verma@example.com,7458914277,SoftCorp,Referral,New,03-02-2026,14-04-2026,459204
+398,Vikram Das,vikram.das@example.com,8559630258,SoftCorp,LinkedIn,Won,19-08-2025,23-02-2026,458354
+399,Amit Reddy,amit.reddy@example.com,9568843624,  DigitalEdges  ,Cold Call,Contacted,10-08-2025,30-10-2025,98328
+400,DUPLICATE LEAD,,7627730258,innovateindia,Referral,Inactive,01-01-2024,22-02-2026,478696
+401,Priya Reddy,priya.reddy@example.com,123-ABC,TechSolutions,Facebook,Qualified,07-11-2025,14-12-2025,346654
+402,Anjali Gupta,anjali.gupta@example.com,9642721030,WebMasters,LinkedIn,Won,01-11-2025,11-04-2026,429307
+403,Rohan Das,rohan.das@example.com,9431549647,InnovateIndia,Referral,New,03-06-2026,19-06-2026,207075
+404,Vikram Reddy,vikram.reddy@example.com,7007200295,CloudScale,Instagram,New,01-10-2025,06-02-2026,266018
+405,PRIYA REDDY,priya.reddy@example.com,9713614095,nextgen it,Facebook,Lost,22-04-2025,09-08-2025,423771
+406,Amit Joshi,amit.joshi@example.com,9056045227,  DigitalEdges  ,LinkedIn,Inactive,17-12-2025,22-02-2026,320579
+407,Arjun Das,arjun.das@example.com,9190608908,TechSolutions,Cold Call,Contacted,29-06-2026,29-06-2026,30840
+408,Sneha Reddy,sneha.reddy@example.com,9683512522,InnovateIndia,Facebook,Qualified,25-06-2026,29-06-2026,419136
+409,Rohan Patel,rohan.patel@example.com,9231671509,SoftCorp,Referral,Inactive,09-01-2025,05-04-2025,408898
+410,DUPLICATE LEAD,vikram.nair@example.com,9973343774,digitaledges,Facebook,Contacted,26-05-2026,09-06-2026,420361
+411,Megha Sharma,megha.sharma@example.com,7467680769,DigitalEdges,Facebook,Contacted,07-02-2025,19-02-2026,497707
+412,Arjun Verma,arjun.verma@example.com,7407839194,InnovateIndia,Instagram,Qualified,21-01-2025,08-02-2025,10375
+413,Arjun Das,arjun.das@example.com,7707375925,  CloudScale  ,Instagram,Contacted,14-08-2025,28-06-2026,232107
+414,Rohan Reddy,rohan.reddy@example.com,7184282978,NextGen IT,Cold Call,Contacted,09-04-2025,11-09-2025,395013
+415,ROHAN NAIR,rohan.nair@example.com,8668607914,dataflow systems,LinkedIn,Contacted,21-06-2026,21-06-2026,292776
+416,Megha Das,megha.das@example.com,9379600370,NextGen IT,Google Ads,Qualified,05-05-2026,06-06-2026,436928
+417,Priya Das,priya.das@example.com,9954401620,WebMasters,Website,Lost,19-01-2026,29-05-2026,25568
+418,Arjun Verma,arjun.verma@example.com,8704391059,InnovateIndia,Cold Call,Lost,11-04-2026,07-06-2026,90561
+419,Divya Nair,divya.nair@example.com,8655361619,CloudScale,Website,Contacted,14-02-2025,05-08-2025,399813
+420,DUPLICATE LEAD,,7146689046,  softcorp  ,Website,Won,16-04-2025,30-05-2026,445641
+421,Sneha Sharma,sneha.sharma@example.com,123-ABC,NextGen IT,Website,Won,22-05-2026,06-06-2026,259875
+422,Amit Iyer,amit.iyer@example.com,9920526273,InnovateIndia,Google Ads,Contacted,19-02-2026,03-05-2026,149516
+423,Vikram Singh,vikram.singh@example.com,7857759521,DigitalEdges,Google Ads,Contacted,01-12-2025,15-06-2026,368180
+424,Rahul Verma,rahul.verma@example.com,8268445413,NextGen IT,Website,New,04-02-2026,17-02-2026,411282
+425,ROHAN SINGH,rohan.singh@example.com,8530371097,dataflow systems,LinkedIn,Lost,17-03-2026,23-05-2026,222527
+426,Anjali Sharma,anjali.sharma@example.com,9491734847,TechSolutions,Cold Call,Qualified,11-06-2025,05-01-2026,79701
+427,Sneha Joshi,sneha.joshi@example.com,9088374041,  NextGen IT  ,Website,Won,04-03-2026,26-03-2026,255847
+428,Rahul Verma,rahul.verma@example.com,7216663884,InnovateIndia,Website,Lost,19-01-2025,13-09-2025,26055
+429,,priya.patel@example.com,7712321380,InnovateIndia,Website,New,31-03-2026,24-04-2026,136446
+430,DUPLICATE LEAD,anjali.sharma@example.com,9879613589,webmasters,Instagram,Won,09-09-2025,30-12-2025,441625
+431,Megha Sharma,megha.sharma@example.com,8413871826,DigitalEdges,LinkedIn,Qualified,11-11-2025,09-03-2026,178262
+432,Megha Iyer,megha.iyer@example.com,7914514713,NextGen IT,Google Ads,New,03-08-2025,12-01-2026,135147
+433,Rohan Nair,rohan.nair@example.com,7542765974,WebMasters,Referral,Inactive,30-09-2025,09-02-2026,396440
+434,Rahul Joshi,rahul.joshi@example.com,8896821947,  CloudScale  ,Website,Won,19-04-2026,20-06-2026,307824
+435,MEGHA GUPTA,megha.gupta@example.com,7566595617,nextgen it,Facebook,Inactive,31-05-2025,06-06-2026,99838
+436,Anjali Verma,anjali.verma@example.com,8685790117,TechSolutions,Google Ads,Lost,24-05-2026,22-06-2026,158172
+437,Megha Sharma,megha.sharma@example.com,8338501737,DigitalEdges,Website,Won,04-02-2025,18-02-2026,206541
+438,Sneha Sharma,sneha.sharma@example.com,9423662712,SoftCorp,Cold Call,Lost,12-05-2025,22-01-2026,361299
+439,Anjali Iyer,anjali.iyer@example.com,7617024769,TechSolutions,Facebook,Won,02-02-2025,25-12-2025,413433
+440,DUPLICATE LEAD,,9173860175,cloudscale,Facebook,Inactive,13-05-2026,25-05-2026,79092
+441,Vikram Singh,vikram.singh@example.com,123-ABC,  CloudScale  ,Google Ads,Lost,10-07-2025,08-12-2025,291178
+442,Rohan Singh,rohan.singh@example.com,8250065117,DigitalEdges,Instagram,New,25-12-2025,16-04-2026,222122
+443,Anjali Joshi,anjali.joshi@example.com,8417416464,DataFlow Systems,LinkedIn,New,14-07-2025,28-02-2026,421673
+444,Sneha Patel,sneha.patel@example.com,9807236622,DataFlow Systems,Referral,Qualified,09-03-2025,12-11-2025,279700
+445,RAHUL IYER,rahul.iyer@example.com,8307938480,nextgen it,Google Ads,Inactive,26-03-2025,15-10-2025,200142
+446,Amit Das,amit.das@example.com,9949394658,TechSolutions,Website,Won,24-04-2025,26-06-2025,31753
+447,Divya Reddy,divya.reddy@example.com,9031100724,CloudScale,Cold Call,Won,13-05-2026,24-05-2026,313363
+448,Divya Iyer,divya.iyer@example.com,9342570979,  NextGen IT  ,Website,Contacted,30-09-2025,15-10-2025,444301
+449,Megha Das,megha.das@example.com,8219643945,InnovateIndia,Website,Inactive,23-09-2025,27-03-2026,358953
+450,DUPLICATE LEAD,vikram.reddy@example.com,9930373092,nextgen it,Cold Call,Inactive,01-01-2024,29-04-2026,192060
+451,Arjun Verma,arjun.verma@example.com,9129373440,WebMasters,Instagram,Lost,26-12-2025,11-06-2026,390392
+452,Anjali Joshi,anjali.joshi@example.com,7773061177,SoftCorp,Instagram,New,09-07-2025,13-10-2025,77935
+453,Arjun Reddy,arjun.reddy@example.com,9647221102,DataFlow Systems,Google Ads,Qualified,20-09-2025,25-06-2026,12261
+454,Arjun Joshi,arjun.joshi@example.com,8001877182,WebMasters,Facebook,New,24-03-2025,06-09-2025,150718
+455,VIKRAM DAS,vikram.das@example.com,9832784168,  dataflow systems  ,Referral,New,24-01-2025,19-09-2025,412606
+456,Sneha Singh,sneha.singh@example.com,9650010275,InnovateIndia,Referral,Contacted,15-01-2025,23-04-2026,204520
+457,Priya Das,priya.das@example.com,9075820826,SoftCorp,Cold Call,Contacted,20-02-2025,28-04-2026,392108
+458,Sneha Patel,sneha.patel@example.com,8773897932,TechSolutions,Referral,Lost,01-02-2025,11-02-2025,27156
+459,Arjun Iyer,arjun.iyer@example.com,8715456867,WebMasters,Cold Call,Lost,22-05-2026,24-06-2026,269930
+460,DUPLICATE LEAD,,9798961343,techsolutions,Instagram,Inactive,10-11-2025,03-01-2026,138414
+461,Megha Das,megha.das@example.com,123-ABC,DataFlow Systems,Google Ads,Won,27-01-2025,20-07-2025,475692
+462,,megha.verma@example.com,8748021092,  DigitalEdges  ,Facebook,Lost,03-12-2025,04-02-2026,476454
+463,Rahul Reddy,rahul.reddy@example.com,8891768147,DigitalEdges,Website,Lost,10-01-2026,14-04-2026,72233
+464,Rohan Verma,rohan.verma@example.com,7605253562,DataFlow Systems,Cold Call,Inactive,04-07-2025,27-04-2026,367678
+465,ANJALI SHARMA,anjali.sharma@example.com,9110748217,cloudscale,Instagram,Contacted,05-05-2025,09-09-2025,53993
+466,Arjun Das,arjun.das@example.com,7268931478,CloudScale,Cold Call,Lost,22-04-2026,22-05-2026,154180
+467,Rohan Gupta,rohan.gupta@example.com,7893530545,InnovateIndia,Cold Call,Won,10-02-2026,14-06-2026,483070
+468,Anjali Patel,anjali.patel@example.com,9906260520,InnovateIndia,Google Ads,New,23-03-2026,03-04-2026,436878
+469,Anjali Singh,anjali.singh@example.com,9262108769,  DigitalEdges  ,Facebook,Qualified,23-02-2025,16-05-2025,329206
+470,DUPLICATE LEAD,rohan.gupta@example.com,9184206020,digitaledges,Cold Call,Contacted,06-11-2025,08-05-2026,394208
+471,Rahul Gupta,rahul.gupta@example.com,7411782937,CloudScale,Google Ads,Won,08-05-2026,13-06-2026,21213
+472,Rahul Reddy,rahul.reddy@example.com,9247397691,TechSolutions,Website,Contacted,04-04-2026,19-04-2026,9188
+473,Amit Joshi,amit.joshi@example.com,8541150595,WebMasters,Google Ads,Contacted,11-04-2026,22-04-2026,372553
+474,Rohan Nair,rohan.nair@example.com,8381993055,DataFlow Systems,Instagram,Lost,10-04-2026,06-05-2026,482640
+475,VIKRAM GUPTA,vikram.gupta@example.com,8637617924,nextgen it,Website,New,30-05-2026,01-06-2026,94776
+476,Amit Das,amit.das@example.com,8667638186,  TechSolutions  ,Referral,Lost,22-07-2025,20-10-2025,24747
+477,Rahul Das,rahul.das@example.com,7607139749,DataFlow Systems,Instagram,Won,07-05-2026,26-05-2026,419430
+478,Anjali Nair,anjali.nair@example.com,9782696149,NextGen IT,Referral,Lost,09-03-2025,16-01-2026,288598
+479,Megha Singh,megha.singh@example.com,9324221841,SoftCorp,Cold Call,Contacted,24-03-2026,04-04-2026,57567
+480,DUPLICATE LEAD,,8572511246,webmasters,Facebook,Contacted,08-08-2025,23-04-2026,112034
+481,Rahul Sharma,rahul.sharma@example.com,123-ABC,CloudScale,LinkedIn,Lost,13-08-2025,14-04-2026,203791
+482,Rohan Das,rohan.das@example.com,9533287049,DigitalEdges,Facebook,Won,20-10-2025,11-03-2026,116782
+483,Vikram Joshi,vikram.joshi@example.com,8557297128,  WebMasters  ,Referral,Qualified,17-02-2025,07-11-2025,97811
+484,Vikram Iyer,vikram.iyer@example.com,7350917318,InnovateIndia,Website,New,26-05-2026,04-06-2026,390680
+485,ROHAN VERMA,rohan.verma@example.com,7164126865,webmasters,Website,Won,22-02-2025,26-01-2026,433903
+486,Amit Das,amit.das@example.com,8380696379,DigitalEdges,Facebook,Qualified,24-11-2025,07-02-2026,214674
+487,Divya Gupta,divya.gupta@example.com,7276289483,CloudScale,Google Ads,Won,31-08-2025,15-09-2025,197777
+488,Rohan Gupta,rohan.gupta@example.com,8476811600,InnovateIndia,Cold Call,Qualified,20-03-2025,02-04-2026,361740
+489,Divya Sharma,divya.sharma@example.com,9017035388,InnovateIndia,LinkedIn,Won,12-03-2025,22-11-2025,83583
+490,DUPLICATE LEAD,anjali.iyer@example.com,7871581066,  dataflow systems  ,Referral,Contacted,26-10-2025,17-02-2026,491754
+491,Arjun Patel,arjun.patel@example.com,8418922849,SoftCorp,Website,Contacted,04-01-2025,27-04-2026,250430
+492,Arjun Reddy,arjun.reddy@example.com,7762438710,InnovateIndia,Website,Contacted,09-07-2025,17-04-2026,309617
+493,Divya Nair,divya.nair@example.com,9744100685,WebMasters,Referral,Inactive,09-12-2025,17-03-2026,480123
+494,Megha Joshi,megha.joshi@example.com,7684966139,CloudScale,Instagram,Won,18-10-2025,18-02-2026,417654
+495,,priya.gupta@example.com,9117218968,webmasters,Instagram,New,06-04-2026,13-06-2026,432847
+496,Divya Joshi,divya.joshi@example.com,8325085574,InnovateIndia,Website,Inactive,17-02-2026,09-05-2026,88277
+497,Megha Singh,megha.singh@example.com,9964255332,  InnovateIndia  ,Website,Lost,29-06-2025,26-10-2025,342992
+498,Sneha Das,sneha.das@example.com,7115455462,DigitalEdges,Website,Qualified,20-03-2026,25-03-2026,486096
+499,Arjun Sharma,arjun.sharma@example.com,7951597928,NextGen IT,LinkedIn,Qualified,05-12-2025,28-02-2026,203391
+500,DUPLICATE LEAD,,9366775238,cloudscale,Instagram,Inactive,01-01-2024,14-06-2026,426139
+501,Vikram Verma,vikram.verma@example.com,123-ABC,NextGen IT,Google Ads,New,30-08-2025,28-03-2026,406030
+502,Megha Reddy,megha.reddy@example.com,7309266992,DataFlow Systems,Google Ads,Contacted,14-06-2026,28-06-2026,224866
+503,Amit Nair,amit.nair@example.com,9585484315,SoftCorp,Referral,Inactive,27-01-2026,22-02-2026,418925
+504,Divya Nair,divya.nair@example.com,8660824866,  DigitalEdges  ,Facebook,Qualified,27-02-2025,05-06-2026,192405
+505,DIVYA PATEL,divya.patel@example.com,7836149932,cloudscale,Google Ads,Won,30-03-2025,18-09-2025,54931
+506,Arjun Nair,arjun.nair@example.com,8808444949,CloudScale,Cold Call,Lost,31-08-2025,06-11-2025,311275
+507,Megha Joshi,megha.joshi@example.com,8671557910,CloudScale,Website,Inactive,08-07-2025,08-10-2025,458840
+508,Sneha Iyer,sneha.iyer@example.com,7633612027,DataFlow Systems,Referral,Lost,24-11-2025,05-05-2026,97583
+509,Priya Nair,priya.nair@example.com,7789228897,DigitalEdges,Facebook,New,01-03-2025,01-03-2025,181795
+510,DUPLICATE LEAD,rohan.singh@example.com,7939151052,digitaledges,Instagram,Inactive,31-01-2026,11-02-2026,447818
+511,Rohan Nair,rohan.nair@example.com,9554812596,  TechSolutions  ,Instagram,Qualified,05-03-2026,09-06-2026,191291
+512,Amit Verma,amit.verma@example.com,7136743519,WebMasters,LinkedIn,Qualified,01-04-2026,11-05-2026,26329
+513,Amit Iyer,amit.iyer@example.com,8040326824,NextGen IT,Google Ads,Inactive,06-08-2025,02-02-2026,62606
+514,Rahul Das,rahul.das@example.com,9966314426,NextGen IT,Google Ads,Inactive,07-08-2025,29-08-2025,481759
+515,ROHAN PATEL,rohan.patel@example.com,8578912903,nextgen it,LinkedIn,New,11-06-2026,13-06-2026,72622
+516,Rohan Iyer,rohan.iyer@example.com,8004839542,TechSolutions,Cold Call,Inactive,25-01-2026,23-05-2026,257089
+517,Rahul Verma,rahul.verma@example.com,7075588535,DigitalEdges,Facebook,Lost,15-08-2025,18-01-2026,24907
+518,Priya Singh,priya.singh@example.com,7771179073,  NextGen IT  ,Referral,Qualified,28-04-2026,20-05-2026,433417
+519,Priya Verma,priya.verma@example.com,8473040576,TechSolutions,Google Ads,Inactive,28-06-2025,01-05-2026,371803
+520,DUPLICATE LEAD,,9673341811,digitaledges,Facebook,Inactive,06-01-2025,10-11-2025,464719
+521,Divya Joshi,divya.joshi@example.com,123-ABC,TechSolutions,LinkedIn,Won,22-02-2025,02-12-2025,62015
+522,Sneha Iyer,sneha.iyer@example.com,7585086798,WebMasters,Google Ads,Inactive,04-03-2025,03-04-2026,87499
+523,Rohan Joshi,rohan.joshi@example.com,8684651416,WebMasters,Instagram,Qualified,16-02-2026,19-06-2026,123018
+524,Vikram Singh,vikram.singh@example.com,9813331126,CloudScale,Facebook,Qualified,31-05-2026,01-06-2026,244682
+525,PRIYA JOSHI,priya.joshi@example.com,9192491007,  nextgen it  ,LinkedIn,Contacted,02-12-2025,31-01-2026,291029
+526,Amit Singh,amit.singh@example.com,7987251591,CloudScale,Google Ads,Qualified,01-06-2026,04-06-2026,386908
+527,Anjali Reddy,anjali.reddy@example.com,8469071458,CloudScale,Website,Won,27-05-2026,22-06-2026,381282
+528,,sneha.patel@example.com,7940100630,NextGen IT,Instagram,Inactive,08-01-2025,13-05-2025,338529
+529,Divya Patel,divya.patel@example.com,7711996985,DataFlow Systems,Instagram,Qualified,09-03-2025,19-08-2025,93617
+530,DUPLICATE LEAD,rahul.reddy@example.com,7748153323,cloudscale,Instagram,Contacted,09-11-2025,17-02-2026,127901
+531,Amit Joshi,amit.joshi@example.com,8657106554,NextGen IT,Website,Won,08-01-2025,27-03-2026,340898
+532,Amit Singh,amit.singh@example.com,8972330770,  DigitalEdges  ,LinkedIn,Qualified,24-03-2025,23-07-2025,367012
+533,Anjali Iyer,anjali.iyer@example.com,8328934657,DataFlow Systems,Website,New,23-11-2025,27-02-2026,235101
+534,Divya Verma,divya.verma@example.com,9459288415,TechSolutions,Cold Call,Inactive,30-09-2025,13-12-2025,324603
+535,DIVYA GUPTA,divya.gupta@example.com,9713323416,innovateindia,Facebook,Lost,02-07-2025,09-10-2025,360510
+536,Sneha Das,sneha.das@example.com,9389936867,DigitalEdges,Referral,Lost,18-05-2026,31-05-2026,467057
+537,Priya Verma,priya.verma@example.com,8322920402,NextGen IT,Google Ads,Contacted,30-05-2026,21-06-2026,26395
+538,Anjali Verma,anjali.verma@example.com,7993783929,DigitalEdges,Facebook,Contacted,13-03-2026,27-06-2026,451485
+539,Sneha Iyer,sneha.iyer@example.com,8392992054,  SoftCorp  ,Website,Lost,19-06-2025,06-08-2025,22419
+540,DUPLICATE LEAD,,7499101918,cloudscale,Google Ads,Contacted,26-10-2025,29-12-2025,382610
+541,Rahul Das,rahul.das@example.com,123-ABC,DataFlow Systems,Website,Contacted,13-03-2026,28-04-2026,398820
+542,Vikram Reddy,vikram.reddy@example.com,8894165665,TechSolutions,Referral,New,01-11-2025,03-05-2026,202693
+543,Arjun Iyer,arjun.iyer@example.com,8409623127,SoftCorp,Google Ads,New,23-06-2025,15-08-2025,239574
+544,Sneha Iyer,sneha.iyer@example.com,8216499481,InnovateIndia,Instagram,Qualified,08-07-2025,20-10-2025,231063
+545,ARJUN GUPTA,arjun.gupta@example.com,7423910583,webmasters,LinkedIn,Inactive,11-04-2025,03-08-2025,74524
+546,Rahul Iyer,rahul.iyer@example.com,9462109574,  CloudScale  ,Referral,Contacted,11-01-2025,22-01-2026,218255
+547,Megha Sharma,megha.sharma@example.com,7185660491,SoftCorp,Google Ads,New,10-07-2025,05-04-2026,409408
+548,Priya Reddy,priya.reddy@example.com,7687696902,TechSolutions,Referral,New,13-01-2025,02-04-2026,367360
+549,Priya Sharma,priya.sharma@example.com,9858811456,InnovateIndia,Cold Call,Won,01-02-2025,23-11-2025,58450
+550,DUPLICATE LEAD,arjun.sharma@example.com,9345329222,innovateindia,Instagram,Inactive,01-01-2024,16-05-2026,223851
+551,Amit Nair,amit.nair@example.com,9975523121,NextGen IT,Google Ads,New,23-04-2025,24-02-2026,115970
+552,Priya Iyer,priya.iyer@example.com,9784728337,TechSolutions,Cold Call,Inactive,04-01-2026,28-04-2026,228048
+553,Rohan Verma,rohan.verma@example.com,7946274406,  DataFlow Systems  ,Google Ads,New,02-02-2025,09-12-2025,125986
+554,Vikram Das,vikram.das@example.com,9228730263,DataFlow Systems,Facebook,Lost,25-02-2026,08-04-2026,248470
+555,AMIT JOSHI,amit.joshi@example.com,7676749153,cloudscale,LinkedIn,Lost,28-06-2026,29-06-2026,366096
+556,Vikram Reddy,vikram.reddy@example.com,8772348073,WebMasters,Cold Call,Contacted,20-10-2025,04-05-2026,453774
+557,Rohan Gupta,rohan.gupta@example.com,7111811370,TechSolutions,Website,Won,22-05-2026,08-06-2026,480902
+558,Arjun Gupta,arjun.gupta@example.com,9883391703,DataFlow Systems,Facebook,Qualified,03-02-2026,07-05-2026,279938
+559,Rohan Nair,rohan.nair@example.com,8162123659,SoftCorp,Referral,Contacted,30-07-2025,13-10-2025,223463
+560,DUPLICATE LEAD,,7215812998,  softcorp  ,Cold Call,Lost,06-06-2025,18-05-2026,77381
+561,,sneha.reddy@example.com,123-ABC,DigitalEdges,Instagram,Contacted,11-12-2025,26-04-2026,355497
+562,Sneha Das,sneha.das@example.com,9207092777,DigitalEdges,Website,Inactive,04-05-2026,19-06-2026,50310
+563,Rahul Verma,rahul.verma@example.com,7051206278,CloudScale,Website,Inactive,18-03-2026,12-05-2026,123743
+564,Priya Gupta,priya.gupta@example.com,7441812312,InnovateIndia,Website,Inactive,09-05-2025,10-05-2025,338858
+565,DIVYA SHARMA,divya.sharma@example.com,9950899557,dataflow systems,Cold Call,Contacted,06-09-2025,31-03-2026,217148
+566,Megha Verma,megha.verma@example.com,9634470558,TechSolutions,Instagram,Lost,27-12-2025,12-05-2026,139554
+567,Megha Nair,megha.nair@example.com,7871225019,  DataFlow Systems  ,Cold Call,Lost,25-09-2025,09-02-2026,280740
+568,Amit Nair,amit.nair@example.com,8077761725,WebMasters,Referral,New,24-07-2025,20-01-2026,320567
+569,Anjali Iyer,anjali.iyer@example.com,9896496363,WebMasters,Website,Contacted,30-04-2026,07-05-2026,210802
+570,DUPLICATE LEAD,rohan.iyer@example.com,7873837889,webmasters,Cold Call,Inactive,09-03-2025,02-05-2025,218895
+571,Megha Verma,megha.verma@example.com,7926888151,InnovateIndia,Facebook,Qualified,14-09-2025,18-03-2026,52858
+572,Divya Gupta,divya.gupta@example.com,9374938564,InnovateIndia,Instagram,Qualified,01-03-2025,06-06-2026,95203
+573,Vikram Iyer,vikram.iyer@example.com,7635368600,WebMasters,Cold Call,Lost,21-03-2025,19-11-2025,275931
+574,Amit Reddy,amit.reddy@example.com,7648102452,  DigitalEdges  ,Google Ads,Won,15-12-2025,14-03-2026,437972
+575,PRIYA SHARMA,priya.sharma@example.com,7551272067,dataflow systems,Referral,Inactive,08-09-2025,07-11-2025,480722
+576,Amit Das,amit.das@example.com,9024005850,InnovateIndia,Facebook,Won,20-05-2025,12-12-2025,456914
+577,Divya Singh,divya.singh@example.com,9164369283,InnovateIndia,Facebook,Contacted,02-11-2025,09-01-2026,288947
+578,Amit Das,amit.das@example.com,9315854319,WebMasters,Cold Call,New,06-04-2025,02-02-2026,121828
+579,Vikram Joshi,vikram.joshi@example.com,8989615295,WebMasters,Website,New,01-01-2025,04-10-2025,176455
+580,DUPLICATE LEAD,,8318840993,techsolutions,Cold Call,Contacted,15-01-2026,26-05-2026,383128
+581,Anjali Reddy,anjali.reddy@example.com,123-ABC,  NextGen IT  ,Google Ads,Won,16-03-2025,29-06-2025,76229
+582,Anjali Verma,anjali.verma@example.com,7096768371,DigitalEdges,Cold Call,Won,16-05-2025,19-05-2025,454467
+583,Divya Sharma,divya.sharma@example.com,9530936718,DigitalEdges,Google Ads,Inactive,12-06-2026,25-06-2026,482657
+584,Anjali Gupta,anjali.gupta@example.com,7972675152,DigitalEdges,LinkedIn,Qualified,13-07-2025,18-02-2026,256017
+585,MEGHA IYER,megha.iyer@example.com,9500074254,nextgen it,Google Ads,Contacted,18-06-2025,20-07-2025,496796
+586,Rahul Singh,rahul.singh@example.com,9223773253,DigitalEdges,Facebook,Lost,01-04-2026,13-06-2026,455169
+587,Anjali Patel,anjali.patel@example.com,7282557872,CloudScale,Google Ads,Inactive,02-07-2025,23-12-2025,452729
+588,Rahul Verma,rahul.verma@example.com,7569804699,  DataFlow Systems  ,Referral,Inactive,07-11-2025,05-03-2026,278105
+589,Megha Nair,megha.nair@example.com,9588483132,TechSolutions,Referral,Won,12-07-2025,12-03-2026,79583
+590,DUPLICATE LEAD,rahul.nair@example.com,8812329932,techsolutions,Referral,Inactive,03-10-2025,22-12-2025,155511
+591,Rahul Sharma,rahul.sharma@example.com,7134224549,NextGen IT,Instagram,New,18-02-2026,21-02-2026,397566
+592,Sneha Reddy,sneha.reddy@example.com,7684973805,SoftCorp,Google Ads,Won,31-03-2025,31-08-2025,116712
+593,Rohan Patel,rohan.patel@example.com,9742998450,DataFlow Systems,Website,Won,02-01-2026,02-04-2026,251357
+594,,amit.patel@example.com,9262743391,DigitalEdges,LinkedIn,Qualified,09-02-2026,28-02-2026,475637
+595,VIKRAM SINGH,vikram.singh@example.com,8634520226,  cloudscale  ,Website,Won,29-04-2026,05-06-2026,320214
+596,Rohan Verma,rohan.verma@example.com,7884560280,DataFlow Systems,Facebook,Inactive,25-01-2025,28-05-2025,65468
+597,Arjun Singh,arjun.singh@example.com,8479492032,WebMasters,Website,Inactive,11-04-2026,31-05-2026,144635
+598,Arjun Gupta,arjun.gupta@example.com,9699625813,WebMasters,Facebook,Lost,15-06-2025,12-05-2026,205593
+599,Divya Joshi,divya.joshi@example.com,7997640684,InnovateIndia,Referral,Qualified,07-04-2025,03-05-2026,369092
+600,DUPLICATE LEAD,,7118989693,dataflow systems,Instagram,Inactive,01-01-2024,20-06-2026,44842
+601,Anjali Joshi,anjali.joshi@example.com,123-ABC,DataFlow Systems,Cold Call,Won,09-07-2025,18-03-2026,411215
+602,Rahul Verma,rahul.verma@example.com,9594444304,  TechSolutions  ,LinkedIn,Qualified,05-02-2026,07-04-2026,323084
+603,Arjun Sharma,arjun.sharma@example.com,7247427731,WebMasters,Referral,New,27-04-2025,15-05-2026,64162
+604,Amit Reddy,amit.reddy@example.com,9817182492,SoftCorp,Cold Call,Lost,20-12-2025,28-06-2026,356533
+605,AMIT SINGH,amit.singh@example.com,7159736582,nextgen it,Website,Lost,24-02-2025,05-06-2026,223876
+606,Vikram Reddy,vikram.reddy@example.com,8119757540,DataFlow Systems,Website,New,29-04-2026,25-06-2026,319731
+607,Priya Das,priya.das@example.com,9842063894,SoftCorp,Cold Call,Inactive,03-06-2025,31-03-2026,318807
+608,Divya Verma,divya.verma@example.com,7637587682,DigitalEdges,Facebook,Won,14-03-2025,05-03-2026,320448
+609,Anjali Singh,anjali.singh@example.com,8726421656,  TechSolutions  ,Instagram,New,15-05-2025,27-04-2026,288449
+610,DUPLICATE LEAD,rohan.gupta@example.com,7652645329,webmasters,Facebook,New,25-06-2025,04-03-2026,322574
+611,Rohan Patel,rohan.patel@example.com,9963106345,WebMasters,Google Ads,Qualified,29-04-2026,08-05-2026,184520
+612,Anjali Patel,anjali.patel@example.com,9721623000,DigitalEdges,Google Ads,Contacted,05-06-2025,16-03-2026,285212
+613,Sneha Reddy,sneha.reddy@example.com,9746833499,WebMasters,Facebook,Qualified,30-04-2026,06-06-2026,113356
+614,Priya Das,priya.das@example.com,9375082478,NextGen IT,Website,New,24-06-2025,08-06-2026,206871
+615,RAHUL SHARMA,rahul.sharma@example.com,8128282180,cloudscale,Referral,Won,18-05-2025,23-05-2026,322319
+616,Vikram Das,vikram.das@example.com,7991105280,  CloudScale  ,LinkedIn,Qualified,19-04-2026,23-04-2026,54805
+617,Divya Verma,divya.verma@example.com,9244160457,WebMasters,Facebook,New,29-04-2025,27-05-2025,162378
+618,Sneha Singh,sneha.singh@example.com,7572095499,WebMasters,Facebook,Inactive,13-06-2026,18-06-2026,254940
+619,Rohan Verma,rohan.verma@example.com,7258844805,DataFlow Systems,Website,Won,01-12-2025,26-12-2025,328123
+620,DUPLICATE LEAD,,7085742942,cloudscale,LinkedIn,Contacted,01-02-2025,29-03-2025,32130
+621,Rohan Joshi,rohan.joshi@example.com,123-ABC,CloudScale,Google Ads,Won,16-03-2026,25-03-2026,185172
+622,Amit Gupta,amit.gupta@example.com,8967194525,WebMasters,Referral,Contacted,23-08-2025,27-01-2026,279764
+623,Rahul Patel,rahul.patel@example.com,8318585996,  InnovateIndia  ,Website,New,29-06-2026,29-06-2026,415632
+624,Priya Das,priya.das@example.com,8939846664,NextGen IT,Instagram,Won,27-10-2025,10-02-2026,84949
+625,SNEHA GUPTA,sneha.gupta@example.com,7375442492,digitaledges,Instagram,Won,18-06-2025,16-01-2026,75178
+626,Arjun Singh,arjun.singh@example.com,8068083890,SoftCorp,Facebook,Qualified,04-06-2025,21-02-2026,461224
+627,,megha.nair@example.com,9221164748,InnovateIndia,Referral,Won,12-03-2026,19-06-2026,157620
+628,Vikram Verma,vikram.verma@example.com,9440527425,CloudScale,Google Ads,Lost,30-09-2025,28-05-2026,50342
+629,Arjun Nair,arjun.nair@example.com,8043378366,WebMasters,Google Ads,Inactive,25-03-2025,24-06-2025,498562
+630,DUPLICATE LEAD,sneha.iyer@example.com,9137906270,  cloudscale  ,Instagram,Qualified,16-11-2025,04-02-2026,399811
+631,Amit Gupta,amit.gupta@example.com,8155705376,WebMasters,Instagram,Won,13-10-2025,16-02-2026,442247
+632,Megha Verma,megha.verma@example.com,8532115551,SoftCorp,Cold Call,New,25-07-2025,02-09-2025,227313
+633,Anjali Sharma,anjali.sharma@example.com,7334108226,InnovateIndia,Website,Qualified,21-04-2025,13-04-2026,295822
+634,Anjali Patel,anjali.patel@example.com,7364182882,TechSolutions,Instagram,Inactive,16-12-2025,25-06-2026,207156
+635,MEGHA PATEL,megha.patel@example.com,7967035132,dataflow systems,Referral,New,09-06-2025,29-04-2026,429589
+636,Sneha Sharma,sneha.sharma@example.com,7940191234,DigitalEdges,LinkedIn,Inactive,19-11-2025,26-04-2026,402530
+637,Megha Verma,megha.verma@example.com,9795990113,  InnovateIndia  ,Referral,New,30-01-2025,27-05-2025,466412
+638,Rohan Nair,rohan.nair@example.com,8021271772,TechSolutions,Google Ads,Qualified,13-04-2026,09-06-2026,466585
+639,Vikram Singh,vikram.singh@example.com,9940639813,DataFlow Systems,LinkedIn,Lost,06-07-2025,19-11-2025,224159
+640,DUPLICATE LEAD,,8507961571,nextgen it,Google Ads,Won,11-06-2025,05-06-2026,494135
+641,Rahul Singh,rahul.singh@example.com,123-ABC,DigitalEdges,Facebook,Qualified,06-09-2025,30-03-2026,459658
+642,Amit Singh,amit.singh@example.com,7494118885,WebMasters,LinkedIn,Lost,20-07-2025,06-06-2026,414177
+643,Arjun Patel,arjun.patel@example.com,7595029799,CloudScale,Cold Call,Lost,09-09-2025,27-11-2025,483378
+644,Priya Gupta,priya.gupta@example.com,8851534866,  NextGen IT  ,Website,Lost,11-06-2026,19-06-2026,388792
+645,VIKRAM VERMA,vikram.verma@example.com,7148959333,digitaledges,LinkedIn,Contacted,02-12-2025,14-05-2026,233517
+646,Divya Verma,divya.verma@example.com,7438958226,WebMasters,Instagram,Won,27-12-2025,02-04-2026,348209
+647,Anjali Nair,anjali.nair@example.com,7343944356,DigitalEdges,Instagram,New,03-11-2025,24-03-2026,65931
+648,Rohan Iyer,rohan.iyer@example.com,8315915220,CloudScale,Instagram,Lost,04-12-2025,05-03-2026,475347
+649,Divya Iyer,divya.iyer@example.com,8441498178,TechSolutions,Cold Call,Contacted,06-03-2025,25-05-2025,58067
+650,DUPLICATE LEAD,arjun.joshi@example.com,9518436281,webmasters,Website,Inactive,01-01-2024,02-06-2026,387143
+651,Sneha Singh,sneha.singh@example.com,8038934044,  DataFlow Systems  ,Website,Inactive,02-08-2025,19-06-2026,470022
+652,Amit Nair,amit.nair@example.com,9599180650,WebMasters,Website,New,31-08-2025,15-10-2025,400773
+653,Amit Gupta,amit.gupta@example.com,9877775774,NextGen IT,Facebook,Contacted,11-03-2026,13-06-2026,370140
+654,Arjun Sharma,arjun.sharma@example.com,7975869781,WebMasters,LinkedIn,Lost,29-01-2025,21-05-2025,353515
+655,ROHAN DAS,rohan.das@example.com,9606036878,cloudscale,Facebook,Won,24-11-2025,25-06-2026,489100
+656,Rahul Das,rahul.das@example.com,9825175616,DigitalEdges,Google Ads,Inactive,17-01-2026,30-01-2026,105893
+657,Vikram Joshi,vikram.joshi@example.com,8660217702,DataFlow Systems,Facebook,Won,14-10-2025,22-05-2026,107107
+658,Divya Joshi,divya.joshi@example.com,8141262070,  NextGen IT  ,Website,New,23-01-2026,23-05-2026,465163
+659,Rohan Joshi,rohan.joshi@example.com,7991203547,SoftCorp,Referral,Won,21-06-2025,21-08-2025,296225
+660,,,9740101608,softcorp,Instagram,Lost,17-01-2026,30-04-2026,366605
+661,Amit Joshi,amit.joshi@example.com,123-ABC,CloudScale,Facebook,New,24-12-2025,16-01-2026,248536
+662,Anjali Sharma,anjali.sharma@example.com,8004061254,DigitalEdges,Google Ads,Qualified,22-03-2025,26-03-2026,165301
+663,Divya Nair,divya.nair@example.com,8060620404,InnovateIndia,Facebook,Inactive,17-09-2025,28-04-2026,98053
+664,Amit Patel,amit.patel@example.com,9405430108,SoftCorp,Website,Won,03-08-2025,14-02-2026,483377
+665,ARJUN PATEL,arjun.patel@example.com,9735821109,  innovateindia  ,Google Ads,Contacted,05-04-2025,07-07-2025,414881
+666,Anjali Nair,anjali.nair@example.com,7228673922,TechSolutions,Cold Call,Lost,03-03-2025,30-08-2025,380711
+667,Divya Nair,divya.nair@example.com,9274079261,DataFlow Systems,Instagram,Won,30-03-2026,02-05-2026,173580
+668,Anjali Reddy,anjali.reddy@example.com,7655180763,InnovateIndia,Instagram,Inactive,20-03-2026,19-04-2026,389236
+669,Rahul Nair,rahul.nair@example.com,9208050880,DigitalEdges,Google Ads,Lost,11-12-2025,23-06-2026,274175
+670,DUPLICATE LEAD,priya.iyer@example.com,8418821037,innovateindia,Website,Lost,09-04-2026,10-05-2026,274708
+671,Rahul Das,rahul.das@example.com,8289978292,CloudScale,Cold Call,Qualified,02-01-2026,24-01-2026,453265
+672,Megha Sharma,megha.sharma@example.com,9327378451,  DataFlow Systems  ,Facebook,Contacted,14-03-2026,22-06-2026,162864
+673,Divya Das,divya.das@example.com,9034557823,DigitalEdges,Google Ads,Contacted,30-05-2025,26-06-2025,121719
+674,Divya Joshi,divya.joshi@example.com,7827484592,InnovateIndia,Instagram,Qualified,23-10-2025,26-12-2025,196739
+675,MEGHA PATEL,megha.patel@example.com,8184631352,techsolutions,Instagram,Contacted,27-11-2025,30-12-2025,436353
+676,Sneha Reddy,sneha.reddy@example.com,8797505941,DigitalEdges,LinkedIn,Inactive,26-06-2026,27-06-2026,286181
+677,Anjali Patel,anjali.patel@example.com,9168231770,WebMasters,Cold Call,Contacted,06-03-2025,23-05-2025,403342
+678,Vikram Gupta,vikram.gupta@example.com,8624732319,DataFlow Systems,Referral,Won,02-03-2025,18-08-2025,243173
+679,Anjali Patel,anjali.patel@example.com,9637889760,  InnovateIndia  ,Instagram,Contacted,05-05-2026,14-05-2026,73164
+680,DUPLICATE LEAD,,7294838183,dataflow systems,Facebook,Inactive,10-09-2025,23-02-2026,461605
+681,Rohan Singh,rohan.singh@example.com,123-ABC,TechSolutions,LinkedIn,Contacted,26-03-2025,18-08-2025,366575
+682,Amit Verma,amit.verma@example.com,9534574373,DataFlow Systems,Google Ads,Won,28-09-2025,23-04-2026,216166
+683,Amit Joshi,amit.joshi@example.com,7048917365,SoftCorp,Facebook,Qualified,06-09-2025,06-02-2026,248862
+684,Sneha Nair,sneha.nair@example.com,7922153967,TechSolutions,Referral,Contacted,17-05-2025,08-03-2026,64611
+685,PRIYA SHARMA,priya.sharma@example.com,8075424465,digitaledges,Google Ads,Won,26-09-2025,09-01-2026,66465
+686,Priya Das,priya.das@example.com,8668228497,  NextGen IT  ,Facebook,Qualified,18-09-2025,16-12-2025,294673
+687,Divya Verma,divya.verma@example.com,9971239813,InnovateIndia,Instagram,Lost,20-10-2025,12-05-2026,306144
+688,Amit Sharma,amit.sharma@example.com,9242400286,TechSolutions,Google Ads,Lost,13-09-2025,03-05-2026,408246
+689,Rohan Gupta,rohan.gupta@example.com,8340152086,DataFlow Systems,Instagram,Qualified,21-02-2025,10-06-2026,372483
+690,DUPLICATE LEAD,anjali.patel@example.com,7277265734,innovateindia,LinkedIn,Lost,19-04-2025,31-08-2025,98892
+691,Vikram Iyer,vikram.iyer@example.com,9912558499,SoftCorp,LinkedIn,Won,12-01-2025,05-02-2026,72054
+692,Divya Patel,divya.patel@example.com,9777272326,InnovateIndia,Website,New,29-05-2026,28-06-2026,35292
+693,,rahul.sharma@example.com,8201405765,  InnovateIndia  ,Facebook,Qualified,27-01-2026,12-06-2026,118932
+694,Rahul Nair,rahul.nair@example.com,7085187937,DataFlow Systems,Website,Won,29-04-2025,13-11-2025,138042
+695,RAHUL GUPTA,rahul.gupta@example.com,7013079311,webmasters,Instagram,New,24-07-2025,15-06-2026,116352
+696,Anjali Sharma,anjali.sharma@example.com,7161511635,InnovateIndia,Google Ads,Inactive,13-05-2026,17-05-2026,112304
+697,Amit Sharma,amit.sharma@example.com,7338253471,WebMasters,Referral,Qualified,12-01-2025,02-04-2026,306033
+698,Arjun Singh,arjun.singh@example.com,7516164955,TechSolutions,Referral,Inactive,20-02-2026,07-04-2026,259126
+699,Divya Sharma,divya.sharma@example.com,8784618468,WebMasters,Website,Won,11-03-2025,17-06-2025,15912
+700,DUPLICATE LEAD,,8399547452,  nextgen it  ,Facebook,Inactive,01-01-2024,13-08-2025,478413
+701,Divya Nair,divya.nair@example.com,123-ABC,SoftCorp,Cold Call,Won,11-11-2025,03-12-2025,150549
+702,Amit Sharma,amit.sharma@example.com,9848754348,DataFlow Systems,Google Ads,Lost,19-12-2025,22-02-2026,60423
+703,Divya Iyer,divya.iyer@example.com,7546004412,DigitalEdges,Facebook,Qualified,16-05-2025,24-02-2026,61223
+704,Anjali Verma,anjali.verma@example.com,9034483370,InnovateIndia,Google Ads,Won,25-10-2025,24-06-2026,159623
+705,VIKRAM SHARMA,vikram.sharma@example.com,9550790069,dataflow systems,Facebook,Won,26-08-2025,28-06-2026,68044
+706,Arjun Sharma,arjun.sharma@example.com,9064687877,NextGen IT,Google Ads,New,02-02-2026,24-03-2026,19193
+707,Anjali Singh,anjali.singh@example.com,8848455078,  TechSolutions  ,Cold Call,Inactive,05-12-2025,12-05-2026,347896
+708,Amit Gupta,amit.gupta@example.com,9703914796,DataFlow Systems,Instagram,Qualified,15-10-2025,16-03-2026,373727
+709,Vikram Sharma,vikram.sharma@example.com,9229955886,CloudScale,Website,New,10-03-2025,22-06-2026,151911
+710,DUPLICATE LEAD,sneha.das@example.com,8414988625,digitaledges,Facebook,Lost,03-09-2025,27-05-2026,465579
+711,Sneha Patel,sneha.patel@example.com,9871084237,TechSolutions,Website,Contacted,02-11-2025,19-02-2026,42542
+712,Vikram Joshi,vikram.joshi@example.com,7822349270,TechSolutions,LinkedIn,Qualified,19-05-2025,16-02-2026,330606
+713,Vikram Gupta,vikram.gupta@example.com,8823878845,WebMasters,LinkedIn,Qualified,11-10-2025,17-10-2025,138555
+714,Priya Verma,priya.verma@example.com,9850873009,  DigitalEdges  ,Facebook,Qualified,09-03-2026,10-04-2026,433241
+715,MEGHA PATEL,megha.patel@example.com,8847361754,techsolutions,Instagram,Contacted,03-04-2026,24-05-2026,386076
+716,Arjun Gupta,arjun.gupta@example.com,7759044102,DigitalEdges,Instagram,Contacted,08-10-2025,22-10-2025,402814
+717,Arjun Singh,arjun.singh@example.com,8094214189,DataFlow Systems,Google Ads,Contacted,13-10-2025,28-05-2026,402193
+718,Priya Verma,priya.verma@example.com,8408884897,WebMasters,Referral,Qualified,24-04-2026,21-06-2026,356670
+719,Priya Gupta,priya.gupta@example.com,9863246070,CloudScale,LinkedIn,Inactive,20-09-2025,11-12-2025,309773
+720,DUPLICATE LEAD,,8149974434,cloudscale,Google Ads,Contacted,04-02-2025,19-04-2026,148474
+721,Anjali Joshi,anjali.joshi@example.com,123-ABC,  CloudScale  ,Cold Call,Qualified,04-07-2025,12-09-2025,88350
+722,Amit Gupta,amit.gupta@example.com,8475897593,NextGen IT,Instagram,Qualified,28-02-2025,16-03-2026,346796
+723,Rahul Sharma,rahul.sharma@example.com,7600330764,SoftCorp,Website,Lost,08-02-2025,04-11-2025,133518
+724,Amit Patel,amit.patel@example.com,8514325593,InnovateIndia,Cold Call,Contacted,07-01-2026,07-06-2026,225662
+725,ANJALI PATEL,anjali.patel@example.com,9093967539,digitaledges,Website,Inactive,28-10-2025,29-03-2026,475115
+726,,arjun.reddy@example.com,9268982293,DigitalEdges,Referral,Qualified,15-09-2025,24-09-2025,54244
+727,Amit Joshi,amit.joshi@example.com,7656968568,TechSolutions,Cold Call,Inactive,16-06-2026,24-06-2026,219703
+728,Anjali Verma,anjali.verma@example.com,8699482384,  WebMasters  ,Instagram,Lost,01-06-2026,21-06-2026,262291
+729,Priya Gupta,priya.gupta@example.com,7872811173,DataFlow Systems,Instagram,Lost,04-09-2025,05-11-2025,228796
+730,DUPLICATE LEAD,vikram.joshi@example.com,7812801221,dataflow systems,LinkedIn,Lost,21-02-2025,26-02-2026,60416
+731,Amit Nair,amit.nair@example.com,7745308377,NextGen IT,Google Ads,Contacted,22-05-2026,19-06-2026,58942
+732,Amit Patel,amit.patel@example.com,7989871692,TechSolutions,Google Ads,Qualified,18-04-2025,22-04-2025,190630
+733,Sneha Joshi,sneha.joshi@example.com,9627002291,NextGen IT,Cold Call,Won,17-09-2025,04-11-2025,24011
+734,Divya Sharma,divya.sharma@example.com,7288785746,SoftCorp,Referral,New,15-08-2025,19-09-2025,248224
+735,RAHUL GUPTA,rahul.gupta@example.com,9018977648,  techsolutions  ,LinkedIn,New,29-06-2026,29-06-2026,403859
+736,Arjun Nair,arjun.nair@example.com,9135500847,NextGen IT,Website,Qualified,06-06-2025,21-01-2026,87485
+737,Sneha Joshi,sneha.joshi@example.com,8080700054,InnovateIndia,Instagram,Contacted,11-01-2026,28-04-2026,142509
+738,Arjun Singh,arjun.singh@example.com,9120961197,NextGen IT,Cold Call,New,16-02-2026,20-05-2026,82475
+739,Sneha Das,sneha.das@example.com,9779057713,SoftCorp,Cold Call,Inactive,24-10-2025,10-01-2026,381924
+740,DUPLICATE LEAD,,7776660966,innovateindia,Facebook,Contacted,19-06-2025,02-11-2025,187062
+741,Megha Das,megha.das@example.com,123-ABC,DigitalEdges,Cold Call,Won,11-04-2026,04-05-2026,64365
+742,Rohan Nair,rohan.nair@example.com,7219378506,  WebMasters  ,Website,New,27-07-2025,10-11-2025,35774
+743,Megha Verma,megha.verma@example.com,7390312286,CloudScale,Facebook,Lost,15-01-2026,27-02-2026,199405
+744,Sneha Singh,sneha.singh@example.com,8242157999,InnovateIndia,LinkedIn,New,09-09-2025,02-04-2026,225084
+745,ANJALI IYER,anjali.iyer@example.com,8789219392,cloudscale,Referral,Qualified,02-12-2025,21-02-2026,233448
+746,Megha Verma,megha.verma@example.com,9263064751,CloudScale,Google Ads,Contacted,07-01-2025,23-03-2025,358250
+747,Arjun Sharma,arjun.sharma@example.com,9938203395,NextGen IT,Cold Call,Lost,26-01-2026,14-04-2026,53564
+748,Rohan Nair,rohan.nair@example.com,8812328420,NextGen IT,LinkedIn,Inactive,11-01-2025,17-05-2026,88500
+749,Arjun Patel,arjun.patel@example.com,8720019118,  TechSolutions  ,Referral,New,27-05-2025,23-06-2025,251540
+750,DUPLICATE LEAD,amit.reddy@example.com,8930953074,cloudscale,Cold Call,Inactive,01-01-2024,22-06-2026,307165
+751,Megha Das,megha.das@example.com,9941528630,CloudScale,Instagram,Contacted,03-07-2025,02-02-2026,493542
+752,Priya Verma,priya.verma@example.com,9022283664,WebMasters,Google Ads,Qualified,10-05-2026,14-05-2026,308191
+753,Amit Gupta,amit.gupta@example.com,8142042365,TechSolutions,Google Ads,Qualified,15-12-2025,26-12-2025,204704
+754,Priya Gupta,priya.gupta@example.com,8340622798,SoftCorp,Google Ads,Inactive,11-01-2025,02-11-2025,211932
+755,DIVYA NAIR,divya.nair@example.com,9840581103,nextgen it,Google Ads,Won,04-07-2025,31-03-2026,391946
+756,Arjun Verma,arjun.verma@example.com,7605512545,  NextGen IT  ,Instagram,Won,25-08-2025,31-10-2025,120996
+757,Sneha Das,sneha.das@example.com,8282009722,InnovateIndia,Instagram,New,08-06-2025,19-01-2026,60033
+758,Rahul Nair,rahul.nair@example.com,8654441232,SoftCorp,Instagram,Inactive,03-06-2025,06-09-2025,345855
+759,,divya.das@example.com,9891318124,WebMasters,Cold Call,Qualified,16-03-2026,23-05-2026,272451
+760,DUPLICATE LEAD,,8882041899,dataflow systems,Referral,Qualified,11-09-2025,07-01-2026,403346
+761,Rahul Iyer,rahul.iyer@example.com,123-ABC,WebMasters,Website,New,12-06-2025,24-03-2026,256755
+762,Vikram Sharma,vikram.sharma@example.com,9780745078,SoftCorp,Facebook,Lost,09-05-2026,19-05-2026,166820
+763,Rahul Iyer,rahul.iyer@example.com,8357159412,  TechSolutions  ,Instagram,Won,12-10-2025,31-01-2026,497137
+764,Arjun Iyer,arjun.iyer@example.com,7027847509,SoftCorp,Referral,Won,18-07-2025,05-05-2026,418550
+765,VIKRAM NAIR,vikram.nair@example.com,7235706763,innovateindia,Instagram,New,27-05-2026,14-06-2026,250667
+766,Divya Singh,divya.singh@example.com,9183800285,SoftCorp,Referral,New,21-05-2026,12-06-2026,231501
+767,Vikram Singh,vikram.singh@example.com,7924819415,InnovateIndia,Instagram,Lost,10-09-2025,16-03-2026,433151
+768,Rahul Joshi,rahul.joshi@example.com,7018552692,WebMasters,Website,Lost,01-08-2025,06-09-2025,102137
+769,Rahul Nair,rahul.nair@example.com,7202418870,WebMasters,Facebook,Lost,21-01-2025,25-03-2025,358125
+770,DUPLICATE LEAD,divya.sharma@example.com,9878317728,  innovateindia  ,LinkedIn,New,23-11-2025,01-03-2026,468127
+771,Priya Joshi,priya.joshi@example.com,7322496886,DataFlow Systems,Instagram,Won,30-07-2025,14-05-2026,402585
+772,Megha Das,megha.das@example.com,9856554187,SoftCorp,Instagram,Lost,07-02-2025,14-04-2025,366400
+773,Arjun Verma,arjun.verma@example.com,7421494665,InnovateIndia,Website,Lost,08-08-2025,16-09-2025,329093
+774,Divya Das,divya.das@example.com,7298061796,WebMasters,Facebook,Contacted,11-09-2025,19-10-2025,418555
+775,DIVYA SHARMA,divya.sharma@example.com,9460266708,webmasters,Referral,Won,14-05-2025,10-10-2025,333058
+776,Vikram Gupta,vikram.gupta@example.com,8964638851,DataFlow Systems,Google Ads,Inactive,17-04-2025,04-10-2025,39270
+777,Arjun Reddy,arjun.reddy@example.com,7480371190,  NextGen IT  ,Facebook,Lost,06-10-2025,21-02-2026,38311
+778,Divya Nair,divya.nair@example.com,9171864733,DataFlow Systems,Facebook,Contacted,28-05-2025,19-11-2025,269191
+779,Anjali Gupta,anjali.gupta@example.com,7997067529,DataFlow Systems,LinkedIn,Qualified,17-03-2026,26-04-2026,468433
+780,DUPLICATE LEAD,,9951704101,softcorp,Website,Lost,18-02-2025,03-05-2026,301821
+781,Rahul Sharma,rahul.sharma@example.com,123-ABC,InnovateIndia,Cold Call,Won,06-11-2025,23-03-2026,129925
+782,Vikram Das,vikram.das@example.com,8546647021,InnovateIndia,Instagram,Qualified,16-10-2025,11-04-2026,30133
+783,Rahul Gupta,rahul.gupta@example.com,7324543585,TechSolutions,Instagram,Lost,07-01-2025,23-08-2025,356394
+784,Rohan Singh,rohan.singh@example.com,9256434932,  NextGen IT  ,Cold Call,Qualified,08-08-2025,15-08-2025,107930
+785,AMIT IYER,amit.iyer@example.com,7924596487,nextgen it,Referral,Inactive,04-05-2026,27-06-2026,427094
+786,Anjali Das,anjali.das@example.com,8871726052,DigitalEdges,Instagram,Qualified,04-04-2025,26-08-2025,57082
+787,Megha Sharma,megha.sharma@example.com,9043501937,SoftCorp,Referral,Lost,30-09-2025,02-03-2026,471605
+788,Rahul Iyer,rahul.iyer@example.com,9687475713,TechSolutions,Referral,Won,09-05-2025,13-12-2025,273673
+789,Rahul Das,rahul.das@example.com,8714350005,InnovateIndia,Website,Won,08-12-2025,24-05-2026,433688
+790,DUPLICATE LEAD,anjali.gupta@example.com,9366253906,techsolutions,Referral,Lost,03-03-2025,02-12-2025,359544
+791,Arjun Reddy,arjun.reddy@example.com,7570225683,  WebMasters  ,Referral,Lost,26-06-2025,11-03-2026,119799
+792,,arjun.joshi@example.com,7196285044,DataFlow Systems,Instagram,Lost,02-03-2026,13-06-2026,407955
+793,Rohan Iyer,rohan.iyer@example.com,8367781995,NextGen IT,Website,Qualified,13-12-2025,13-03-2026,243798
+794,Vikram Joshi,vikram.joshi@example.com,7665035840,DataFlow Systems,Facebook,Contacted,29-03-2026,04-06-2026,385626
+795,VIKRAM JOSHI,vikram.joshi@example.com,8434165571,innovateindia,LinkedIn,Inactive,24-04-2025,18-05-2026,301580
+796,Megha Das,megha.das@example.com,8830094653,NextGen IT,Instagram,Inactive,25-03-2026,25-03-2026,55641
+797,Arjun Joshi,arjun.joshi@example.com,8543465631,CloudScale,Instagram,New,02-12-2025,06-02-2026,86780
+798,Anjali Iyer,anjali.iyer@example.com,7855332630,  WebMasters  ,LinkedIn,New,20-05-2026,22-06-2026,368574
+799,Amit Reddy,amit.reddy@example.com,9671216457,SoftCorp,Cold Call,Inactive,14-05-2026,28-05-2026,345570
+800,DUPLICATE LEAD,,8906060617,webmasters,Website,Inactive,01-01-2024,08-06-2026,304162
+801,Sneha Joshi,sneha.joshi@example.com,123-ABC,NextGen IT,Website,New,28-05-2025,28-10-2025,473455
+802,Divya Patel,divya.patel@example.com,9479729362,DataFlow Systems,LinkedIn,Qualified,03-01-2025,23-01-2025,437257
+803,Megha Patel,megha.patel@example.com,7151454063,SoftCorp,Cold Call,Inactive,09-11-2025,23-01-2026,18267
+804,Rahul Verma,rahul.verma@example.com,7325903326,DataFlow Systems,Google Ads,New,14-06-2025,23-02-2026,72503
+805,MEGHA DAS,megha.das@example.com,9790806531,  techsolutions  ,Cold Call,Inactive,22-06-2026,27-06-2026,282097
+806,Priya Patel,priya.patel@example.com,7786861299,WebMasters,Referral,New,15-04-2026,20-05-2026,129108
+807,Sneha Singh,sneha.singh@example.com,7838958866,NextGen IT,Referral,Inactive,17-03-2026,31-05-2026,93581
+808,Divya Gupta,divya.gupta@example.com,7888015715,CloudScale,Cold Call,Contacted,04-03-2025,15-03-2026,201175
+809,Megha Reddy,megha.reddy@example.com,8001302703,InnovateIndia,Google Ads,New,06-06-2025,25-05-2026,152176
+810,DUPLICATE LEAD,vikram.verma@example.com,8792012860,techsolutions,LinkedIn,Lost,04-12-2025,27-03-2026,469755
+811,Vikram Sharma,vikram.sharma@example.com,8085955397,DigitalEdges,Cold Call,Inactive,17-05-2026,23-05-2026,89652
+812,Amit Patel,amit.patel@example.com,9136783866,  DataFlow Systems  ,Facebook,Lost,17-08-2025,05-06-2026,315178
+813,Rohan Verma,rohan.verma@example.com,7596686586,WebMasters,Google Ads,New,13-04-2026,06-05-2026,113382
+814,Anjali Nair,anjali.nair@example.com,9733393332,TechSolutions,Cold Call,Lost,27-06-2025,30-03-2026,136066
+815,SNEHA REDDY,sneha.reddy@example.com,9948774575,webmasters,Instagram,Lost,23-10-2025,31-10-2025,95902
+816,Anjali Singh,anjali.singh@example.com,7168040078,TechSolutions,LinkedIn,Lost,11-12-2025,15-06-2026,417429
+817,Sneha Verma,sneha.verma@example.com,9056417010,InnovateIndia,Google Ads,Won,23-05-2026,13-06-2026,123087
+818,Amit Verma,amit.verma@example.com,9981474440,TechSolutions,Google Ads,Lost,17-06-2025,05-07-2025,285802
+819,Rohan Patel,rohan.patel@example.com,9701017569,  WebMasters  ,Instagram,Contacted,12-12-2025,05-04-2026,193486
+820,DUPLICATE LEAD,,9492387061,digitaledges,Facebook,Qualified,29-12-2025,05-06-2026,237729
+821,Sneha Das,sneha.das@example.com,123-ABC,TechSolutions,Instagram,Lost,10-11-2025,29-05-2026,495891
+822,Megha Das,megha.das@example.com,8327814224,DataFlow Systems,Facebook,Contacted,12-05-2025,03-06-2026,270075
+823,Vikram Sharma,vikram.sharma@example.com,8844878438,CloudScale,Website,Qualified,11-01-2025,29-05-2026,402307
+824,Amit Iyer,amit.iyer@example.com,9022426443,NextGen IT,Cold Call,Qualified,25-10-2025,25-10-2025,336099
+825,,rohan.iyer@example.com,7741235369,webmasters,Referral,Inactive,09-01-2026,12-06-2026,347170
+826,Amit Patel,amit.patel@example.com,9724144854,  NextGen IT  ,LinkedIn,Contacted,04-11-2025,19-02-2026,459017
+827,Anjali Sharma,anjali.sharma@example.com,7933116860,WebMasters,LinkedIn,Contacted,26-05-2026,17-06-2026,151941
+828,Megha Singh,megha.singh@example.com,9141074895,TechSolutions,Instagram,Won,03-05-2025,20-03-2026,177290
+829,Amit Gupta,amit.gupta@example.com,9861363013,DataFlow Systems,Instagram,Inactive,22-03-2025,26-03-2025,268782
+830,DUPLICATE LEAD,divya.verma@example.com,9642288829,webmasters,Facebook,Lost,26-04-2026,23-05-2026,212043
+831,Rahul Das,rahul.das@example.com,8913197459,InnovateIndia,Cold Call,Won,19-12-2025,06-03-2026,241410
+832,Rahul Patel,rahul.patel@example.com,8925192988,DigitalEdges,Instagram,Contacted,11-10-2025,04-02-2026,345337
+833,Amit Iyer,amit.iyer@example.com,9206392263,  NextGen IT  ,Facebook,Qualified,30-11-2025,21-02-2026,120742
+834,Sneha Reddy,sneha.reddy@example.com,7094918664,DigitalEdges,Facebook,New,20-03-2025,18-05-2025,380820
+835,ANJALI JOSHI,anjali.joshi@example.com,7814174291,cloudscale,Instagram,Qualified,13-01-2025,14-07-2025,37525
+836,Priya Verma,priya.verma@example.com,9768543082,SoftCorp,Referral,Lost,02-09-2025,30-03-2026,37757
+837,Rahul Sharma,rahul.sharma@example.com,7198691630,TechSolutions,Referral,Lost,04-01-2025,08-11-2025,266738
+838,Amit Singh,amit.singh@example.com,8179456957,CloudScale,LinkedIn,Inactive,02-02-2025,03-09-2025,228705
+839,Megha Iyer,megha.iyer@example.com,9533386065,DataFlow Systems,Cold Call,Qualified,13-11-2025,02-06-2026,492487
+840,DUPLICATE LEAD,,9816332222,  cloudscale  ,Instagram,Contacted,30-03-2025,15-11-2025,254337
+841,Sneha Iyer,sneha.iyer@example.com,123-ABC,WebMasters,Facebook,Inactive,12-02-2026,02-03-2026,131100
+842,Amit Patel,amit.patel@example.com,9466998900,InnovateIndia,Facebook,New,21-06-2025,06-08-2025,365040
+843,Divya Reddy,divya.reddy@example.com,9232482400,CloudScale,LinkedIn,New,08-09-2025,10-06-2026,106947
+844,Rahul Gupta,rahul.gupta@example.com,8113002792,SoftCorp,Cold Call,Won,26-03-2025,14-07-2025,360772
+845,PRIYA REDDY,priya.reddy@example.com,7766765125,webmasters,Facebook,Inactive,01-05-2025,23-04-2026,268761
+846,Anjali Gupta,anjali.gupta@example.com,9021706363,DigitalEdges,Instagram,Qualified,13-01-2026,22-05-2026,495622
+847,Megha Nair,megha.nair@example.com,9687058616,  NextGen IT  ,Referral,Lost,02-10-2025,15-05-2026,169446
+848,Priya Sharma,priya.sharma@example.com,7069460538,DigitalEdges,Website,Inactive,16-02-2025,14-10-2025,243640
+849,Sneha Singh,sneha.singh@example.com,8263346127,NextGen IT,Cold Call,New,09-09-2025,16-01-2026,174234
+850,DUPLICATE LEAD,priya.verma@example.com,9682680843,techsolutions,Website,Inactive,01-01-2024,25-04-2026,218030
+851,Divya Sharma,divya.sharma@example.com,8718700651,DataFlow Systems,Facebook,New,25-04-2026,19-06-2026,432588
+852,Arjun Patel,arjun.patel@example.com,9225809992,DataFlow Systems,Google Ads,Lost,10-03-2025,12-09-2025,435469
+853,Rahul Joshi,rahul.joshi@example.com,7963470807,NextGen IT,Website,Qualified,08-04-2025,27-05-2026,426225
+854,Arjun Verma,arjun.verma@example.com,8248981743,  SoftCorp  ,Facebook,New,01-08-2025,05-12-2025,310863
+855,SNEHA SHARMA,sneha.sharma@example.com,9280826350,softcorp,LinkedIn,Lost,16-06-2026,29-06-2026,46535
+856,Rahul Sharma,rahul.sharma@example.com,7806078891,DigitalEdges,Website,New,12-02-2025,27-05-2025,181110
+857,Sneha Iyer,sneha.iyer@example.com,8209595128,NextGen IT,LinkedIn,Lost,05-03-2026,26-03-2026,96105
+858,,priya.gupta@example.com,7035809919,WebMasters,Website,Qualified,12-03-2025,30-10-2025,435935
+859,Arjun Verma,arjun.verma@example.com,7246187285,WebMasters,LinkedIn,Lost,11-02-2026,09-06-2026,422294
+860,DUPLICATE LEAD,,9277640757,webmasters,Google Ads,Lost,06-10-2025,25-01-2026,105803
+861,Amit Singh,amit.singh@example.com,123-ABC,  DataFlow Systems  ,LinkedIn,Contacted,02-09-2025,12-11-2025,150948
+862,Rahul Verma,rahul.verma@example.com,9074387544,CloudScale,Cold Call,Inactive,03-01-2025,09-05-2025,157774
+863,Sneha Reddy,sneha.reddy@example.com,7047051505,DigitalEdges,Instagram,Qualified,04-03-2025,24-06-2026,138295
+864,Rohan Patel,rohan.patel@example.com,9322148442,CloudScale,Cold Call,Qualified,27-09-2025,27-05-2026,99314
+865,SNEHA SHARMA,sneha.sharma@example.com,8862438755,techsolutions,Google Ads,New,25-08-2025,12-02-2026,163111
+866,Rohan Singh,rohan.singh@example.com,9572583392,DataFlow Systems,LinkedIn,Won,28-02-2025,24-05-2025,450737
+867,Anjali Nair,anjali.nair@example.com,9120080038,DigitalEdges,Google Ads,Won,15-04-2025,27-04-2026,432445
+868,Rahul Das,rahul.das@example.com,9051673980,  NextGen IT  ,Referral,Won,24-08-2025,30-04-2026,373197
+869,Rahul Patel,rahul.patel@example.com,9169939993,NextGen IT,Website,Qualified,22-04-2025,25-12-2025,79175
+870,DUPLICATE LEAD,megha.nair@example.com,7043460211,softcorp,Facebook,Inactive,03-04-2025,22-04-2025,421799
+871,Divya Nair,divya.nair@example.com,8651329285,CloudScale,Instagram,New,18-07-2025,09-01-2026,76915
+872,Vikram Joshi,vikram.joshi@example.com,7479195957,InnovateIndia,Referral,Lost,27-05-2026,25-06-2026,445529
+873,Priya Patel,priya.patel@example.com,8026673973,TechSolutions,Instagram,Contacted,17-01-2026,27-05-2026,85221
+874,Vikram Joshi,vikram.joshi@example.com,9235139093,WebMasters,Instagram,Inactive,29-03-2025,23-07-2025,294288
+875,DIVYA NAIR,divya.nair@example.com,9789430831,  cloudscale  ,Instagram,Inactive,10-08-2025,27-01-2026,319461
+876,Vikram Verma,vikram.verma@example.com,7066950711,TechSolutions,Referral,Contacted,16-06-2025,15-06-2026,78336
+877,Megha Singh,megha.singh@example.com,9543617382,CloudScale,LinkedIn,Contacted,19-04-2026,19-06-2026,67566
+878,Megha Joshi,megha.joshi@example.com,8070662515,InnovateIndia,Cold Call,Inactive,05-08-2025,14-10-2025,464346
+879,Arjun Sharma,arjun.sharma@example.com,7354274745,WebMasters,LinkedIn,Lost,19-06-2025,27-09-2025,300919
+880,DUPLICATE LEAD,,7279358488,nextgen it,Instagram,Lost,06-08-2025,24-05-2026,389173
+881,Amit Gupta,amit.gupta@example.com,123-ABC,InnovateIndia,Cold Call,Inactive,08-03-2025,22-05-2026,250378
+882,Megha Verma,megha.verma@example.com,9668329635,  DigitalEdges  ,Website,Qualified,09-12-2025,01-05-2026,446704
+883,Amit Patel,amit.patel@example.com,9798978769,CloudScale,Website,Inactive,19-06-2025,15-12-2025,147655
+884,Vikram Singh,vikram.singh@example.com,8902861860,NextGen IT,Cold Call,Won,29-01-2026,26-02-2026,354511
+885,SNEHA NAIR,sneha.nair@example.com,8283481943,techsolutions,Website,Inactive,04-01-2025,09-07-2025,454850
+886,Anjali Reddy,anjali.reddy@example.com,8876025457,NextGen IT,Facebook,New,12-04-2026,15-06-2026,317875
+887,Megha Verma,megha.verma@example.com,8385759640,DataFlow Systems,LinkedIn,Lost,20-05-2025,17-01-2026,240577
+888,Vikram Gupta,vikram.gupta@example.com,7010717677,InnovateIndia,Cold Call,Contacted,27-02-2025,01-04-2026,459867
+889,Sneha Joshi,sneha.joshi@example.com,7715951048,  NextGen IT  ,Cold Call,Lost,14-02-2025,27-06-2025,419488
+890,DUPLICATE LEAD,vikram.patel@example.com,9860801318,dataflow systems,Google Ads,Inactive,13-04-2025,16-06-2026,102802
+891,,rohan.iyer@example.com,7947612203,DigitalEdges,Facebook,Lost,05-12-2025,29-06-2026,363797
+892,Vikram Patel,vikram.patel@example.com,7706828458,InnovateIndia,Referral,Won,31-05-2026,24-06-2026,465743
+893,Vikram Gupta,vikram.gupta@example.com,8990002717,WebMasters,Website,Won,08-06-2026,18-06-2026,258186
+894,Arjun Verma,arjun.verma@example.com,9789827981,DigitalEdges,LinkedIn,New,21-08-2025,23-08-2025,260769
+895,ARJUN SHARMA,arjun.sharma@example.com,7443231020,digitaledges,Website,Qualified,03-11-2025,13-06-2026,163371
+896,Anjali Das,anjali.das@example.com,7591101798,  TechSolutions  ,LinkedIn,Qualified,31-12-2025,24-06-2026,415605
+897,Rahul Iyer,rahul.iyer@example.com,9512846266,NextGen IT,Facebook,Won,17-04-2026,28-04-2026,103816
+898,Amit Verma,amit.verma@example.com,8394722303,WebMasters,Cold Call,New,05-03-2025,28-03-2026,349343
+899,Sneha Gupta,sneha.gupta@example.com,7361363853,DigitalEdges,LinkedIn,Won,19-11-2025,03-03-2026,97084
+900,DUPLICATE LEAD,,7144290282,cloudscale,LinkedIn,Inactive,01-01-2024,17-01-2025,132144
+901,Amit Patel,amit.patel@example.com,123-ABC,DataFlow Systems,Facebook,Contacted,18-01-2026,25-01-2026,237985
+902,Rahul Iyer,rahul.iyer@example.com,9418888758,TechSolutions,Referral,Contacted,18-12-2025,03-04-2026,468319
+903,Vikram Verma,vikram.verma@example.com,7557165453,  NextGen IT  ,Referral,Qualified,30-06-2025,08-09-2025,160220
+904,Vikram Das,vikram.das@example.com,8180231138,CloudScale,LinkedIn,New,05-12-2025,11-05-2026,82543
+905,VIKRAM VERMA,vikram.verma@example.com,9827712728,softcorp,Facebook,Qualified,21-01-2025,16-11-2025,344373
+906,Amit Sharma,amit.sharma@example.com,8113452212,TechSolutions,Instagram,Inactive,22-03-2026,04-06-2026,389787
+907,Priya Sharma,priya.sharma@example.com,8373269172,WebMasters,Website,Qualified,29-08-2025,10-01-2026,198883
+908,Anjali Gupta,anjali.gupta@example.com,7862116523,SoftCorp,Instagram,New,01-06-2026,08-06-2026,377448
+909,Vikram Nair,vikram.nair@example.com,9503358163,InnovateIndia,LinkedIn,Qualified,08-04-2026,15-06-2026,355319
+910,DUPLICATE LEAD,rohan.nair@example.com,7572266720,  cloudscale  ,Google Ads,Qualified,26-01-2026,17-06-2026,22718
+911,Arjun Iyer,arjun.iyer@example.com,8961515139,DataFlow Systems,LinkedIn,New,03-07-2025,18-01-2026,368759
+912,Rahul Reddy,rahul.reddy@example.com,8923795259,NextGen IT,LinkedIn,Inactive,28-03-2026,22-04-2026,147184
+913,Vikram Joshi,vikram.joshi@example.com,7066714292,WebMasters,LinkedIn,New,28-08-2025,21-02-2026,393401
+914,Sneha Gupta,sneha.gupta@example.com,9035241032,NextGen IT,Google Ads,Won,20-01-2026,25-03-2026,449231
+915,ANJALI REDDY,anjali.reddy@example.com,7907359603,techsolutions,LinkedIn,Inactive,17-08-2025,26-01-2026,326443
+916,Priya Verma,priya.verma@example.com,8178020962,CloudScale,Google Ads,Contacted,07-07-2025,06-10-2025,264807
+917,Arjun Iyer,arjun.iyer@example.com,8009595432,  CloudScale  ,Instagram,Lost,30-04-2026,11-05-2026,482321
+918,Arjun Singh,arjun.singh@example.com,9079643919,WebMasters,LinkedIn,Won,17-09-2025,14-12-2025,371775
+919,Sneha Nair,sneha.nair@example.com,8167437076,WebMasters,Google Ads,Lost,02-12-2025,12-05-2026,133000
+920,DUPLICATE LEAD,,8492002351,techsolutions,Website,Qualified,06-07-2025,01-11-2025,336376
+921,Rohan Singh,rohan.singh@example.com,123-ABC,WebMasters,Referral,Won,23-01-2026,19-03-2026,189939
+922,Sneha Sharma,sneha.sharma@example.com,8896412186,NextGen IT,Referral,Contacted,13-02-2025,10-09-2025,401673
+923,Priya Sharma,priya.sharma@example.com,9549054279,DataFlow Systems,Referral,Qualified,13-02-2025,21-10-2025,164069
+924,,amit.sharma@example.com,7690635330,  SoftCorp  ,Referral,Qualified,03-01-2025,21-02-2025,49967
+925,PRIYA IYER,priya.iyer@example.com,9483361536,webmasters,Website,Lost,24-04-2025,04-10-2025,346288
+926,Megha Reddy,megha.reddy@example.com,8102802833,WebMasters,Google Ads,New,12-01-2025,31-03-2026,286815
+927,Priya Verma,priya.verma@example.com,7988891510,CloudScale,LinkedIn,Inactive,29-01-2025,29-08-2025,106678
+928,Arjun Sharma,arjun.sharma@example.com,9491339877,DigitalEdges,Cold Call,Inactive,26-10-2025,10-02-2026,56928
+929,Arjun Verma,arjun.verma@example.com,9835756372,DigitalEdges,Facebook,Inactive,02-01-2026,06-04-2026,284461
+930,DUPLICATE LEAD,arjun.das@example.com,7966110488,cloudscale,Website,Lost,09-06-2025,04-03-2026,205530
+931,Amit Sharma,amit.sharma@example.com,8049817610,  DataFlow Systems  ,Referral,New,01-10-2025,02-12-2025,398267
+932,Megha Gupta,megha.gupta@example.com,9921802182,NextGen IT,Referral,Lost,06-12-2025,24-05-2026,260989
+933,Anjali Sharma,anjali.sharma@example.com,7075570844,SoftCorp,Cold Call,New,09-10-2025,25-06-2026,468978
+934,Amit Iyer,amit.iyer@example.com,8566877480,WebMasters,Instagram,Qualified,02-04-2026,22-05-2026,487325
+935,MEGHA DAS,megha.das@example.com,8492898799,nextgen it,Instagram,Inactive,21-07-2025,20-08-2025,478172
+936,Amit Joshi,amit.joshi@example.com,7596315501,NextGen IT,Website,Won,13-04-2026,17-05-2026,23733
+937,Rohan Joshi,rohan.joshi@example.com,9584899991,WebMasters,Website,Lost,05-03-2026,13-06-2026,475771
+938,Divya Singh,divya.singh@example.com,8994295991,  CloudScale  ,LinkedIn,Contacted,12-11-2025,23-04-2026,223721
+939,Vikram Verma,vikram.verma@example.com,7872083881,DataFlow Systems,Google Ads,Won,13-07-2025,19-08-2025,401456
+940,DUPLICATE LEAD,,8178980628,techsolutions,Cold Call,Won,13-09-2025,22-05-2026,255401
+941,Anjali Patel,anjali.patel@example.com,123-ABC,DataFlow Systems,Google Ads,New,22-05-2026,02-06-2026,395716
+942,Vikram Nair,vikram.nair@example.com,7005393212,WebMasters,Instagram,Lost,11-01-2025,12-02-2025,421733
+943,Divya Verma,divya.verma@example.com,8517848364,WebMasters,Cold Call,Lost,23-02-2026,06-03-2026,419753
+944,Arjun Reddy,arjun.reddy@example.com,7818628515,TechSolutions,Referral,Won,10-01-2025,21-04-2025,377904
+945,MEGHA DAS,megha.das@example.com,8021104992,  nextgen it  ,Referral,Qualified,08-01-2026,14-03-2026,121694
+946,Rahul Joshi,rahul.joshi@example.com,8622502173,NextGen IT,Cold Call,New,02-06-2026,21-06-2026,94663
+947,Megha Sharma,megha.sharma@example.com,7376102603,InnovateIndia,Facebook,Qualified,07-09-2025,14-10-2025,283245
+948,Vikram Iyer,vikram.iyer@example.com,7411108431,TechSolutions,Website,Inactive,03-03-2026,29-05-2026,310511
+949,Rohan Gupta,rohan.gupta@example.com,8578194991,DataFlow Systems,Facebook,New,07-06-2026,28-06-2026,410557
+950,DUPLICATE LEAD,divya.verma@example.com,9642374343,techsolutions,Facebook,Inactive,01-01-2024,09-05-2026,265144
+951,Divya Reddy,divya.reddy@example.com,9199480352,SoftCorp,Google Ads,New,14-06-2026,24-06-2026,112741
+952,Divya Reddy,divya.reddy@example.com,9831279370,  NextGen IT  ,LinkedIn,Inactive,23-10-2025,08-11-2025,235362
+953,Vikram Patel,vikram.patel@example.com,9223806484,WebMasters,LinkedIn,Inactive,24-01-2025,18-08-2025,103323
+954,Rohan Das,rohan.das@example.com,9219503862,DataFlow Systems,Referral,Contacted,18-02-2026,29-05-2026,224229
+955,ANJALI GUPTA,anjali.gupta@example.com,8424839330,softcorp,Website,Qualified,16-01-2025,27-01-2025,242249
+956,Sneha Sharma,sneha.sharma@example.com,7121485827,SoftCorp,Website,Inactive,14-06-2025,05-01-2026,37261
+957,,priya.iyer@example.com,9522954200,InnovateIndia,Facebook,New,20-01-2025,04-03-2025,340576
+958,Arjun Sharma,arjun.sharma@example.com,7050014889,InnovateIndia,Facebook,Won,18-03-2026,10-06-2026,68561
+959,Divya Gupta,divya.gupta@example.com,8992863958,  TechSolutions  ,Referral,Lost,06-11-2025,20-12-2025,31250
+960,DUPLICATE LEAD,,7169055042,techsolutions,Website,New,27-05-2025,12-01-2026,457604
+961,Divya Reddy,divya.reddy@example.com,123-ABC,TechSolutions,Cold Call,Lost,04-04-2025,04-02-2026,277827
+962,Sneha Singh,sneha.singh@example.com,9760231718,CloudScale,Cold Call,Lost,09-06-2025,25-06-2026,52618
+963,Sneha Das,sneha.das@example.com,7360123385,InnovateIndia,Cold Call,Inactive,18-10-2025,28-05-2026,449018
+964,Sneha Verma,sneha.verma@example.com,7458385252,SoftCorp,Website,Lost,20-09-2025,02-02-2026,463651
+965,AMIT REDDY,amit.reddy@example.com,7693673462,techsolutions,Website,Qualified,21-02-2026,18-03-2026,336331
+966,Megha Reddy,megha.reddy@example.com,9124025294,  WebMasters  ,Facebook,Won,07-01-2025,15-01-2026,62506
+967,Rahul Iyer,rahul.iyer@example.com,7615738348,WebMasters,Cold Call,Won,18-06-2025,13-07-2025,273518
+968,Sneha Sharma,sneha.sharma@example.com,8729191004,CloudScale,Facebook,New,15-09-2025,04-11-2025,323903
+969,Rahul Joshi,rahul.joshi@example.com,8965309067,NextGen IT,Facebook,New,02-11-2025,16-11-2025,436576
+970,DUPLICATE LEAD,sneha.patel@example.com,9975964537,webmasters,Cold Call,Qualified,24-05-2026,28-05-2026,463957
+971,Divya Sharma,divya.sharma@example.com,9609362363,NextGen IT,Instagram,Won,05-01-2025,09-06-2026,265940
+972,Amit Patel,amit.patel@example.com,7487086587,CloudScale,Website,New,10-10-2025,20-05-2026,399611
+973,Amit Gupta,amit.gupta@example.com,9142265025,  DataFlow Systems  ,LinkedIn,Won,04-10-2025,13-05-2026,42994
+974,Amit Nair,amit.nair@example.com,7335784867,NextGen IT,Referral,New,30-01-2025,15-06-2026,157814
+975,SNEHA SINGH,sneha.singh@example.com,9408002687,innovateindia,LinkedIn,New,09-01-2025,05-11-2025,286107
+976,Vikram Joshi,vikram.joshi@example.com,9475872403,DataFlow Systems,Cold Call,Qualified,27-03-2025,26-06-2026,440079
+977,Rohan Singh,rohan.singh@example.com,8645276034,TechSolutions,Cold Call,Qualified,22-05-2025,20-11-2025,380809
+978,Rohan Nair,rohan.nair@example.com,9101585209,SoftCorp,Cold Call,Qualified,06-01-2025,19-11-2025,102622
+979,Arjun Iyer,arjun.iyer@example.com,8483159562,InnovateIndia,Instagram,Inactive,10-01-2026,15-05-2026,109593
+980,DUPLICATE LEAD,,9510763164,  innovateindia  ,LinkedIn,Qualified,08-10-2025,19-10-2025,92229
+981,Divya Nair,divya.nair@example.com,123-ABC,DataFlow Systems,Facebook,Qualified,05-04-2026,28-04-2026,132865
+982,Megha Nair,megha.nair@example.com,8754450964,DigitalEdges,Cold Call,Contacted,01-05-2025,30-04-2026,205878
+983,Rahul Verma,rahul.verma@example.com,8339983032,NextGen IT,Cold Call,Won,12-12-2025,22-12-2025,376028
+984,Priya Patel,priya.patel@example.com,7345322745,InnovateIndia,Instagram,Inactive,22-11-2025,18-01-2026,488196
+985,RAHUL DAS,rahul.das@example.com,8881648912,techsolutions,Instagram,Qualified,15-12-2025,25-06-2026,201343
+986,Vikram Singh,vikram.singh@example.com,8110572968,InnovateIndia,Facebook,New,06-06-2026,29-06-2026,204269
+987,Arjun Verma,arjun.verma@example.com,8732276461,  InnovateIndia  ,Facebook,Qualified,25-04-2026,25-04-2026,303268
+988,Rahul Verma,rahul.verma@example.com,9099135275,DigitalEdges,Google Ads,Inactive,22-07-2025,08-10-2025,399943
+989,Megha Das,megha.das@example.com,9962727745,InnovateIndia,LinkedIn,Contacted,15-01-2026,22-06-2026,445168
+990,,megha.das@example.com,8106798183,cloudscale,Facebook,Won,07-08-2025,26-02-2026,445935
+991,Rahul Das,rahul.das@example.com,9260734780,WebMasters,Facebook,Inactive,19-05-2026,09-06-2026,32320
+992,Arjun Gupta,arjun.gupta@example.com,9075277117,CloudScale,Facebook,Lost,22-06-2025,09-03-2026,458152
+993,Arjun Das,arjun.das@example.com,9774510477,WebMasters,Website,New,15-03-2026,12-05-2026,407059
+994,Vikram Das,vikram.das@example.com,8981068563,  SoftCorp  ,Instagram,Lost,24-09-2025,18-10-2025,250475
+995,SNEHA GUPTA,sneha.gupta@example.com,9299909470,innovateindia,LinkedIn,Inactive,11-01-2026,08-03-2026,14714
+996,Anjali Patel,anjali.patel@example.com,8004059405,SoftCorp,Instagram,Inactive,27-05-2025,23-10-2025,346755
+997,Amit Verma,amit.verma@example.com,8596695863,InnovateIndia,Instagram,Qualified,22-05-2025,09-08-2025,45251
+998,Priya Nair,priya.nair@example.com,7290577896,NextGen IT,Website,Won,17-04-2025,09-03-2026,497965
+999,Megha Das,megha.das@example.com,7311416978,TechSolutions,Referral,Won,16-09-2025,29-05-2026,358666
+1000,DUPLICATE LEAD,,8313721371,cloudscale,Referral,Inactive,01-01-2024,12-09-2025,440760
